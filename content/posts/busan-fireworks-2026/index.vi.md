@@ -72,7 +72,7 @@ Nguồn: [trang vé chính thức](https://busanfireworks.com/reservation_en)
 
 ## Mẹo từ người địa phương
 
-Đây là kinh nghiệm cá nhân, không phải hướng dẫn chính thức.
+Đây là mẹo chung, không phải hướng dẫn chính thức.
 
 - **Đi sớm.** Các vị trí đẹp trên bãi biển kín chỗ từ buổi chiều. Bạn có thể vừa xem chương trình ban ngày (Phố pháo hoa, biểu diễn bay lúc 16:00) vừa chờ.
 - **Buổi tối tháng 11 ở biển khá lạnh.** Nên mang chăn, miếng dán giữ nhiệt và tấm lót ngồi.
