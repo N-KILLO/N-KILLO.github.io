@@ -76,3 +76,19 @@ figcaption p{margin:0}
 /* 베트남어: 한글 글꼴엔 겹성조(ế, ộ…) 글리프가 없어 부호가 떨어져 보임 → 베트남어 지원 글꼴 우선, 줄간격 여유 */
 :lang(vi), [hreflang="vi"]{font-family:"Segoe UI","Noto Sans","Roboto","Helvetica Neue",Arial,sans-serif}
 :lang(vi) body, body:lang(vi){line-height:1.8}
+/* 메인 화면 움직임 (CSS만, 2026-11-05) — 처음부터 보이는 상태에서 위치만 움직임 */
+.waves{height:28px;margin:14px 0 6px;overflow:hidden;color:var(--accent)}
+.waves svg{width:200%;height:100%;display:block}
+.waves path{fill:none;stroke:currentColor;stroke-linecap:round}
+.waves .w1{stroke-width:2;opacity:.55;animation:drift 14s linear infinite}
+.waves .w2{stroke-width:1.5;opacity:.3;animation:drift 22s linear infinite reverse}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@keyframes rise{from{transform:translateY(8px)}to{transform:none}}
+.cards-rise .card{animation:rise .5s ease-out both}
+.cards-rise .card:nth-child(2){animation-delay:.08s}
+.cards-rise .card:nth-child(3){animation-delay:.16s}
+.cards-rise .card:nth-child(4){animation-delay:.24s}
+.cards-rise .card:nth-child(n+5){animation-delay:.3s}
+.card{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
+.card:hover,.card:focus-within{transform:translateY(-2px);box-shadow:0 6px 18px -10px var(--accent)}
+@media (prefers-reduced-motion:reduce){.waves path,.cards-rise .card{animation:none}.card,.card:hover{transition:none;transform:none}}
