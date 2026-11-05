@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="UVQXtPV3exDteksx502ChGs6A0Yi8BRZ-RATScI4wOI">
 {{ $title := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
 <title>{{ $title }}</title>
 {{ $desc := or .Description .Summary site.Params.description | plainify | htmlUnescape | truncate 155 }}
