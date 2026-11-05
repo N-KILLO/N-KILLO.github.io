@@ -30,3 +30,15 @@ other = "Googleマップ"
 other = "アプリ"
 [whyLocalMaps]
 other = "韓国でNAVER地図・カカオマップを使う理由"
+[tankNow]
+other = "いまの釜山"
+[tankMorning]
+other = "朝"
+[tankDay]
+other = "昼"
+[tankSunset]
+other = "夕焼け"
+[tankNight]
+other = "夜景"
+[tiltOn]
+other = "傾けてみる"

@@ -30,3 +30,15 @@ other = "Google Maps"
 other = "ดาวน์โหลดแอป"
 [whyLocalMaps]
 other = "ทำไมควรใช้ Naver Map และ KakaoMap ในเกาหลี"
+[tankNow]
+other = "ปูซานตอนนี้"
+[tankMorning]
+other = "เช้า"
+[tankDay]
+other = "กลางวัน"
+[tankSunset]
+other = "พระอาทิตย์ตก"
+[tankNight]
+other = "ยามค่ำคืน"
+[tiltOn]
+other = "ลองเอียงดู"

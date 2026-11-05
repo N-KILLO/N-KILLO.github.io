@@ -30,3 +30,15 @@ other = "구글 지도"
 other = "앱 받기"
 [whyLocalMaps]
 other = "구글맵 말고 네이버 지도·카카오맵을 쓰는 이유"
+[tankNow]
+other = "지금 부산"
+[tankMorning]
+other = "아침"
+[tankDay]
+other = "낮"
+[tankSunset]
+other = "노을"
+[tankNight]
+other = "야경"
+[tiltOn]
+other = "기울여 보기"

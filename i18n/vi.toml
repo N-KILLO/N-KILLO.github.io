@@ -30,3 +30,15 @@ other = "Google Maps"
 other = "Tải ứng dụng"
 [whyLocalMaps]
 other = "Vì sao nên dùng Naver Map, KakaoMap ở Hàn Quốc"
+[tankNow]
+other = "Busan lúc này"
+[tankMorning]
+other = "Buổi sáng"
+[tankDay]
+other = "Ban ngày"
+[tankSunset]
+other = "Hoàng hôn"
+[tankNight]
+other = "Đêm"
+[tiltOn]
+other = "Nghiêng thử"

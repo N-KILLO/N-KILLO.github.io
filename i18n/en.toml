@@ -30,3 +30,15 @@ other = "Google Maps"
 other = "Get the apps"
 [whyLocalMaps]
 other = "Why use Naver Map or KakaoMap in Korea"
+[tankNow]
+other = "Busan now"
+[tankMorning]
+other = "Morning"
+[tankDay]
+other = "Day"
+[tankSunset]
+other = "Sunset"
+[tankNight]
+other = "Night"
+[tiltOn]
+other = "Tilt to play"

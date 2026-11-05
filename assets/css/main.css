@@ -76,13 +76,7 @@ figcaption p{margin:0}
 /* 베트남어: 한글 글꼴엔 겹성조(ế, ộ…) 글리프가 없어 부호가 떨어져 보임 → 베트남어 지원 글꼴 우선, 줄간격 여유 */
 :lang(vi), [hreflang="vi"]{font-family:"Segoe UI","Noto Sans","Roboto","Helvetica Neue",Arial,sans-serif}
 :lang(vi) body, body:lang(vi){line-height:1.8}
-/* 메인 화면 움직임 (CSS만, 2026-11-05) — 처음부터 보이는 상태에서 위치만 움직임 */
-.waves{height:28px;margin:14px 0 6px;overflow:hidden;color:var(--accent)}
-.waves svg{width:200%;height:100%;display:block}
-.waves path{fill:none;stroke:currentColor;stroke-linecap:round}
-.waves .w1{stroke-width:2;opacity:.55;animation:drift 14s linear infinite}
-.waves .w2{stroke-width:1.5;opacity:.3;animation:drift 22s linear infinite reverse}
-@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+/* 메인 화면 움직임 (2026-11-05) — 카드는 처음부터 보이는 상태에서 위치만 움직임 */
 @keyframes rise{from{transform:translateY(8px)}to{transform:none}}
 .cards-rise .card{animation:rise .5s ease-out backwards}
 .cards-rise .card:nth-child(2){animation-delay:.08s}
@@ -91,16 +85,10 @@ figcaption p{margin:0}
 .cards-rise .card:nth-child(n+5){animation-delay:.3s}
 .cards-rise .card{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
 .cards-rise .card:hover,.cards-rise .card:focus-within{transform:translateY(-2px);box-shadow:0 6px 18px -10px var(--accent)}
-@media (prefers-reduced-motion:reduce){.waves path,.cards-rise .card{animation:none}.cards-rise .card,.cards-rise .card:hover,.cards-rise .card:focus-within{transition:none;transform:none}}
-/* 물결 위 돛단배 (2026-11-05) — 천천히 가로지르며 살짝 흔들림 */
-.waves{position:relative;height:40px}
-.waves > svg:not(.boat){position:absolute;left:0;bottom:0;height:28px}
-.boat-track{position:absolute;inset:0 0 auto 0;height:30px;animation:sail 48s linear -16s infinite}
-.waves .boat{position:absolute;left:0;top:0;width:30px;height:24px;overflow:visible;animation:bob 3.2s ease-in-out infinite;transform-origin:50% 90%}
-.waves .boat path{stroke:none}
-.waves .boat .hull{fill:var(--ink);opacity:.8}
-.waves .boat .sail{fill:var(--accent)}
-.waves .boat .sail2{fill:var(--accent);opacity:.55}
-@keyframes sail{from{transform:translateX(-8%)}to{transform:translateX(100%)}}
-@keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(3px) rotate(3deg)}}
-@media (prefers-reduced-motion:reduce){.boat-track{animation:none;transform:translateX(12%)}.waves .boat{animation:none}}
+@media (prefers-reduced-motion:reduce){.cards-rise .card{animation:none}.cards-rise .card,.cards-rise .card:hover,.cards-rise .card:focus-within{transition:none;transform:none}}
+/* 부산 바다 어항 (2026-11-05) — 캔버스 그림은 tank.js */
+.tank{position:relative;height:clamp(130px,30vw,180px);margin:16px 0 4px;border-radius:18px;overflow:hidden;border:1px solid var(--line);box-shadow:inset 0 0 0 4px color-mix(in srgb,var(--card) 35%,transparent);background:var(--soft)}
+.tank canvas{display:block;width:100%;height:100%}
+.tank-label{position:absolute;left:10px;top:8px;font-size:12px;font-weight:700;letter-spacing:.03em;color:#fff;background:rgba(0,0,0,.28);padding:2px 9px;border-radius:999px;pointer-events:none}
+.tilt-btn{position:absolute;right:10px;bottom:10px;font:inherit;font-size:13px;font-weight:700;border:0;border-radius:999px;padding:6px 12px;background:rgba(255,255,255,.88);color:#0b2a3a;cursor:pointer}
+.tilt-btn:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
