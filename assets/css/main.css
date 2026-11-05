@@ -84,11 +84,11 @@ figcaption p{margin:0}
 .waves .w2{stroke-width:1.5;opacity:.3;animation:drift 22s linear infinite reverse}
 @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @keyframes rise{from{transform:translateY(8px)}to{transform:none}}
-.cards-rise .card{animation:rise .5s ease-out both}
+.cards-rise .card{animation:rise .5s ease-out backwards}
 .cards-rise .card:nth-child(2){animation-delay:.08s}
 .cards-rise .card:nth-child(3){animation-delay:.16s}
 .cards-rise .card:nth-child(4){animation-delay:.24s}
 .cards-rise .card:nth-child(n+5){animation-delay:.3s}
-.card{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
-.card:hover,.card:focus-within{transform:translateY(-2px);box-shadow:0 6px 18px -10px var(--accent)}
-@media (prefers-reduced-motion:reduce){.waves path,.cards-rise .card{animation:none}.card,.card:hover{transition:none;transform:none}}
+.cards-rise .card{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
+.cards-rise .card:hover,.cards-rise .card:focus-within{transform:translateY(-2px);box-shadow:0 6px 18px -10px var(--accent)}
+@media (prefers-reduced-motion:reduce){.waves path,.cards-rise .card{animation:none}.cards-rise .card,.cards-rise .card:hover,.cards-rise .card:focus-within{transition:none;transform:none}}
