@@ -1,0 +1,30 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
+<title>{{ $title }}</title>
+{{ $desc := or .Description .Summary site.Params.description | plainify | htmlUnescape | truncate 155 }}
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+{{ range .AllTranslations }}{{ if eq .Language.Lang "ko" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}{{ end }}
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ .Title | default site.Title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="{{ replace site.Language.Locale "-" "_" }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+{{ if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+{{ end }}
+{{ with .Resources.GetMatch "*gwangan*.jpg" | default (.Resources.GetMatch "*.jpg") }}{{ $og := .Fill "1200x630 q80" }}<meta property="og:image" content="{{ $og.Permalink }}"><meta name="twitter:card" content="summary_large_image">{{ else }}<meta name="twitter:card" content="summary">{{ end }}
+{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">{{ end }}
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ if .IsPage }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02T15:04:05-07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00") "inLanguage" site.Language.Locale "url" .Permalink "author" (dict "@type" "Person" "name" site.Params.author) | jsonify | safeJS }}
+</script>
+{{ end }}

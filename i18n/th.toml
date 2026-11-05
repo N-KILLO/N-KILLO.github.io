@@ -1,0 +1,20 @@
+[latest]
+other = "บทความล่าสุด"
+[readMore]
+other = "อ่านต่อ"
+[updated]
+other = "อัปเดต"
+[categories]
+other = "หมวดหมู่"
+[tags]
+other = "แท็ก"
+[prev]
+other = "ใหม่กว่า"
+[next]
+other = "เก่ากว่า"
+[otherLangs]
+other = "อ่านในภาษาอื่น"
+[toc]
+other = "สารบัญ"
+[noPosts]
+other = "ยังไม่มีบทความ"

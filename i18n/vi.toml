@@ -1,0 +1,20 @@
+[latest]
+other = "Bài viết mới nhất"
+[readMore]
+other = "Đọc tiếp"
+[updated]
+other = "Cập nhật"
+[categories]
+other = "Chuyên mục"
+[tags]
+other = "Thẻ"
+[prev]
+other = "Mới hơn"
+[next]
+other = "Cũ hơn"
+[otherLangs]
+other = "Đọc bằng ngôn ngữ khác"
+[toc]
+other = "Mục lục"
+[noPosts]
+other = "Chưa có bài viết."

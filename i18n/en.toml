@@ -1,0 +1,20 @@
+[latest]
+other = "Latest posts"
+[readMore]
+other = "Read more"
+[updated]
+other = "Updated"
+[categories]
+other = "Categories"
+[tags]
+other = "Tags"
+[prev]
+other = "Newer"
+[next]
+other = "Older"
+[otherLangs]
+other = "Read in another language"
+[toc]
+other = "Contents"
+[noPosts]
+other = "No posts yet."

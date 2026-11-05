@@ -1,0 +1,10 @@
+<article class="card">
+  <a href="{{ .RelPermalink }}">
+    {{ with .Resources.GetMatch "*.jpg" }}{{ $t := .Fill "224x168 q75" }}<img class="thumb" src="{{ $t.RelPermalink }}" alt="" width="112" height="84" loading="lazy">{{ end }}
+    <div class="txt">
+    <h3>{{ .Title }}</h3>
+    <p>{{ or .Description .Summary | plainify | htmlUnescape | truncate 110 }}</p>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    </div>
+  </a>
+</article>

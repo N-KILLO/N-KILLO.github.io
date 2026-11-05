@@ -1,0 +1,20 @@
+[latest]
+other = "최신 글"
+[readMore]
+other = "자세히 보기"
+[updated]
+other = "수정"
+[categories]
+other = "분류"
+[tags]
+other = "태그"
+[prev]
+other = "이전"
+[next]
+other = "다음"
+[otherLangs]
+other = "다른 언어로 읽기"
+[toc]
+other = "목차"
+[noPosts]
+other = "아직 글이 없습니다."

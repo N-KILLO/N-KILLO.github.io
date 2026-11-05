@@ -1,0 +1,20 @@
+[latest]
+other = "最新文章"
+[readMore]
+other = "閱讀全文"
+[updated]
+other = "更新"
+[categories]
+other = "分類"
+[tags]
+other = "標籤"
+[prev]
+other = "上一頁"
+[next]
+other = "下一頁"
+[otherLangs]
+other = "其他語言版本"
+[toc]
+other = "目錄"
+[noPosts]
+other = "目前還沒有文章。"

@@ -1,0 +1,20 @@
+[latest]
+other = "最新記事"
+[readMore]
+other = "続きを読む"
+[updated]
+other = "更新"
+[categories]
+other = "カテゴリー"
+[tags]
+other = "タグ"
+[prev]
+other = "前へ"
+[next]
+other = "次へ"
+[otherLangs]
+other = "他の言語で読む"
+[toc]
+other = "目次"
+[noPosts]
+other = "まだ記事がありません。"

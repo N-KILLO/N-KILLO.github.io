@@ -1,0 +1,20 @@
+[latest]
+other = "最新文章"
+[readMore]
+other = "阅读全文"
+[updated]
+other = "更新"
+[categories]
+other = "分类"
+[tags]
+other = "标签"
+[prev]
+other = "上一页"
+[next]
+other = "下一页"
+[otherLangs]
+other = "其他语言版本"
+[toc]
+other = "目录"
+[noPosts]
+other = "暂无文章。"

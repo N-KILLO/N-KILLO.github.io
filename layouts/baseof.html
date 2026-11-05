@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+    <nav class="menu">
+      {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+    </nav>
+  </div>
+  <div class="wrap langs" aria-label="Language">
+    {{ $page := . }}
+    {{ range hugo.Sites }}
+      {{ $lang := .Language.Lang }}
+      {{ $target := "" }}
+      {{ range $page.AllTranslations }}{{ if eq .Language.Lang $lang }}{{ $target = .RelPermalink }}{{ end }}{{ end }}
+      {{ if not $target }}{{ $target = printf "/%s/" $lang }}{{ end }}
+      <a href="{{ $target }}" hreflang="{{ $lang }}" class="{{ if eq $lang site.Language.Lang }}on{{ end }}">{{ .Language.Label }}</a>
+    {{ end }}
+  </div>
+</header>
+<main class="wrap">
+{{ block "main" . }}{{ end }}
+</main>
+<footer class="wrap site-footer">
+  <p>© {{ now.Year }} {{ site.Title }}</p>
+</footer>
+</body>
+</html>
