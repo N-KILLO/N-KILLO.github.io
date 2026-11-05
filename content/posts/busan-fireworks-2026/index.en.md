@@ -46,8 +46,8 @@ Source: [official timetable](https://busanfireworks.com/program/schedule.php) (K
 
 | Viewing area | Subway | Bus |
 |---|---|---|
-| Gwangalli Beach | Line 2, **Gwangan Station, Exit 3** | 24, 27, 39, 131, Nam-gu 2, Nam-gu 8 |
-| Igidae | Line 2, Kyungsung Univ.·Pukyong Nat'l Univ. Station, then bus | 38, 42, 49, 62, 83, 83-1, 108 |
+| Gwangalli Beach | Line 2, **Gwangan Station, Exit 3** | Check your route in a map app before leaving |
+| Igidae | Line 2, Kyungsung Univ.·Pukyong Nat'l Univ. Station, then bus | Check your route in a map app before leaving |
 | Dongbaekseom Island | Line 2, **Dongbaek Station, Exit 1** | 139, 307, 1003 |
 
 Source: [official location page](https://busanfireworks.com/content/location)

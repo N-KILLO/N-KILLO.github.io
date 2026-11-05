@@ -46,8 +46,8 @@ Nguồn: [lịch trình chính thức](https://busanfireworks.com/program/schedu
 
 | Khu vực xem | Tàu điện ngầm | Xe buýt |
 |---|---|---|
-| Bãi biển Gwangalli | Tuyến 2, **ga Gwangan, lối ra số 3** | 24, 27, 39, 131, Nam-gu 2, Nam-gu 8 |
-| Igidae | Tuyến 2, ga Kyungsung Univ.·Pukyong Nat'l Univ., sau đó đi xe buýt | 38, 42, 49, 62, 83, 83-1, 108 |
+| Bãi biển Gwangalli | Tuyến 2, **ga Gwangan, lối ra số 3** | Tra tuyến xe trên ứng dụng bản đồ trước khi đi |
+| Igidae | Tuyến 2, ga Kyungsung Univ.·Pukyong Nat'l Univ., sau đó đi xe buýt | Tra tuyến xe trên ứng dụng bản đồ trước khi đi |
 | Đảo Dongbaek | Tuyến 2, **ga Dongbaek, lối ra số 1** | 139, 307, 1003 |
 
 Nguồn: [trang hướng dẫn đường đi chính thức](https://busanfireworks.com/content/location)
