@@ -6,7 +6,7 @@ categories: ["Mẹo du lịch Busan"]
 tags: ["Naver Map", "KakaoMap", "Google Maps Hàn Quốc", "Ứng dụng du lịch Hàn Quốc", "Du lịch Busan"]
 ---
 
-Ứng dụng bản đồ là một trong những thứ nên cài đầu tiên trước chuyến đi Hàn Quốc. Ở nhiều nước, chỉ cần Google Maps là đủ, nhưng ở Hàn Quốc, cài thêm **Naver Map** hoặc **KakaoMap** sẽ tiện hơn nhiều. (Thông tin tính đến ngày 5/11/2026)
+Ứng dụng bản đồ là một trong những thứ nên cài đầu tiên trước chuyến đi Hàn Quốc. Ở nhiều nước, chỉ cần Google Maps là đủ, nhưng ở Hàn Quốc, cài thêm **Naver Map** hoặc **KakaoMap** sẽ tiện hơn nhiều. (Thông tin tính đến ngày 05/11/2026)
 
 {{< figure src="busan-cheongsapo.jpg" alt="Hải đăng Cheongsapo và biển ở Haeundae, Busan" caption="Cheongsapo, quận Haeundae, Busan (8/2024) · Ảnh: Tổ chức Du lịch Hàn Quốc (PhoKo), Lee Byeong-hyeon · KOGL Loại 1" >}}
 
@@ -24,7 +24,7 @@ Ngôn ngữ ứng dụng lấy theo thông tin trên App Store. Cả hai ứng d
 
 Hàn Quốc từ lâu đã hạn chế việc đưa dữ liệu bản đồ có độ chính xác cao ra nước ngoài, vì vậy chức năng chỉ đường của Google Maps tại Hàn Quốc bị hạn chế.
 
-Theo báo chí, **ngày 27/2/2026, Chính phủ Hàn Quốc đã chấp thuận có điều kiện yêu cầu của Google về việc đưa dữ liệu bản đồ độ chính xác cao (tỷ lệ 1:5000) ra nước ngoài** (thông báo của Bộ Đất đai, Hạ tầng và Giao thông, được các báo lớn đưa tin cùng ngày). Chức năng của Google Maps tại Hàn Quốc có thể được mở rộng, nhưng tốt nhất hãy kiểm tra trực tiếp trên ứng dụng.
+Theo báo chí, **ngày 27/02/2026, Chính phủ Hàn Quốc đã chấp thuận có điều kiện yêu cầu của Google về việc đưa dữ liệu bản đồ độ chính xác cao (tỷ lệ 1:5.000) ra nước ngoài** (thông báo của Bộ Đất đai, Hạ tầng và Giao thông, được các báo lớn đưa tin cùng ngày). Chức năng của Google Maps tại Hàn Quốc có thể được mở rộng, nhưng tốt nhất hãy kiểm tra trực tiếp trên ứng dụng.
 
 Tóm lại: **cứ giữ Google Maps, và cài thêm Naver Map hoặc KakaoMap.** Ứng dụng trong nước có thông tin chi tiết hơn về cửa hàng, nhà hàng và phương tiện công cộng ở Hàn Quốc.
 
@@ -67,4 +67,4 @@ Cả hai đều có giao diện tiếng Anh, chọn ứng dụng nào cũng đư
 Có. Các link dẫn đến trang chính thức trên App Store và Google Play.
 
 ---
-Nguồn: thông tin ứng dụng trên Apple App Store (NAVER Map, KakaoMap), hướng dẫn link KakaoMap (apis.map.kakao.com), tin tức về thông báo ngày 27/2/2026 của Bộ Đất đai, Hạ tầng và Giao thông Hàn Quốc. Kiểm tra ngày 5/11/2026.
+Nguồn: thông tin ứng dụng trên Apple App Store (NAVER Map, KakaoMap), hướng dẫn link KakaoMap (apis.map.kakao.com), tin tức về thông báo ngày 27/02/2026 của Bộ Đất đai, Hạ tầng và Giao thông Hàn Quốc. Kiểm tra ngày 05/11/2026.

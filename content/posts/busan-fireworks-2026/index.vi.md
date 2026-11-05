@@ -1,12 +1,12 @@
 ---
-title: "Lễ hội pháo hoa Busan 2026 (7/11): Giờ bắn pháo hoa chính, cách đi và hạn mua vé – Cẩm nang đầy đủ"
+title: "Lễ hội pháo hoa Busan 2026 (07/11): Giờ bắn pháo hoa chính, cách đi và hạn mua vé – Cẩm nang đầy đủ"
 date: 2026-11-05T15:00:00+09:00
-description: "Lễ hội pháo hoa Busan lần thứ 21 diễn ra vào thứ Bảy, 7/11/2026 tại bãi biển Gwangalli, Igidae và đảo Dongbaek. Màn trình diễn chính 19:25–19:55. Lịch trình, lối ra ga tàu điện ngầm, hạn mua vé và thông tin cấm đường theo nguồn chính thức."
+description: "Lễ hội pháo hoa Busan lần thứ 21 diễn ra vào thứ Bảy, 07/11/2026 tại bãi biển Gwangalli, Igidae và đảo Dongbaek. Màn trình diễn chính 19:25–19:55. Lịch trình, lối ra ga tàu điện ngầm, hạn mua vé và thông tin cấm đường theo nguồn chính thức."
 categories: ["Lễ hội Busan"]
 tags: ["Lễ hội pháo hoa Busan", "Gwangalli", "Du lịch Busan", "Lễ hội Hàn Quốc", "Busan tháng 11"]
 ---
 
-**Lễ hội pháo hoa Busan lần thứ 21 diễn ra vào thứ Bảy, ngày 7 tháng 11 năm 2026**, tại khu vực bãi biển Gwangalli, Igidae và đảo Dongbaek (Dongbaekseom). **Màn trình diễn chính "Busan Multi Fireworks Show" kéo dài từ 19:25 đến 19:55.** Toàn bộ thông tin dưới đây dựa trên trang web chính thức ([busanfireworks.com](https://busanfireworks.com/en)), được kiểm tra ngày 5/11/2026.
+**Lễ hội pháo hoa Busan lần thứ 21 diễn ra vào thứ Bảy, ngày 7 tháng 11 năm 2026**, tại khu vực bãi biển Gwangalli, Igidae và đảo Dongbaek (Dongbaekseom). **Màn trình diễn chính "Busan Multi Fireworks Show" kéo dài từ 19:25 đến 19:55.** Toàn bộ thông tin dưới đây dựa trên trang web chính thức ([busanfireworks.com](https://busanfireworks.com/en)), được kiểm tra ngày 05/11/2026.
 
 {{< figure src="fireworks-gwangan-bridge.jpg" alt="Pháo hoa bừng sáng trên cầu Gwangan tại Lễ hội pháo hoa Busan" caption="Lễ hội pháo hoa Busan trên cầu Gwangan (11/2023) · Ảnh: Tổ chức Du lịch Hàn Quốc (PhoKo), Kim Hyo-seo · KOGL Loại 1" >}}
 
@@ -16,7 +16,7 @@ tags: ["Lễ hội pháo hoa Busan", "Gwangalli", "Du lịch Busan", "Lễ hội
 
 | Mục | Nội dung |
 |---|---|
-| Ngày | Thứ Bảy, 7/11/2026 |
+| Ngày | Thứ Bảy, 07/11/2026 |
 | Địa điểm | Bãi biển Gwangalli, Igidae, đảo Dongbaek |
 | Thời gian lễ hội | 13:00 – 20:00 |
 | Màn pháo hoa chính | 19:25 – 19:55 (30 phút) |
@@ -56,13 +56,13 @@ Nguồn: [trang hướng dẫn đường đi chính thức](https://busanfirewor
 
 ## Cấm đường
 
-Thành phố Busan thông báo **cầu Gwangan (Gwangandaegyo) bị kiểm soát giao thông từ ngày 2/11 đến 8/11**. Thông tin cấm đường quanh khu vực lễ hội trong ngày diễn ra sự kiện, xem tại [thông báo kiểm soát giao thông của thành phố Busan cho lễ hội lần thứ 21](https://www.busan.go.kr/nbnews/1761578) (tiếng Hàn).
+Thành phố Busan thông báo **cầu Gwangan (Gwangandaegyo) bị kiểm soát giao thông từ ngày 02/11 đến 08/11**. Thông tin cấm đường quanh khu vực lễ hội trong ngày diễn ra sự kiện, xem tại [thông báo kiểm soát giao thông của thành phố Busan cho lễ hội lần thứ 21](https://www.busan.go.kr/nbnews/1761578) (tiếng Hàn).
 
 ## Vé
 
 Bạn có thể xem miễn phí từ bãi biển, hoặc mua vé có chỗ ngồi riêng.
 
-- **Vé thường (NOL / NOL World): ngừng bán lúc 17:00 thứ Sáu, 6/11 (giờ Hàn Quốc)**, tức là một ngày trước lễ hội.
+- **Vé thường (NOL / NOL World): ngừng bán lúc 17:00 thứ Sáu, 06/11 (giờ Hàn Quốc)**, tức là một ngày trước lễ hội.
 - Vé ưu đãi sớm và gói lưu trú đã ngừng bán.
 - Ban tổ chức cảnh báo không mua vé bán lại từ nguồn không chính thức.
 
