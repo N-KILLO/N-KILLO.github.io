@@ -31,12 +31,12 @@
       if (h >= h0 && h <= h1) {
         const t = h1 === h0 ? 0 : (h - h0) / (h1 - h0), a = P[k0], b = P[k1], o = {};
         for (const c of ['s1', 's2', 'w1', 'w2', 'city', 'bridge', 'fish']) o[c] = mix(a[c], b[c], t);
-        o.phase = t < 0.5 ? a.phase : b.phase;
+        o.phase = h < 5 ? 'night' : h < 8 ? 'morning' : h < 17 ? 'day' : h < 19 ? 'sunset' : 'night'; // 라벨 경계 05·08·17·19시(색은 사이에서 서서히)
         o.dark = (k0 === 'night' ? 1 - t : 0) + (k1 === 'night' ? t : 0);
         return o;
       }
     }
-    return Object.assign({ dark: 1 }, P.night);
+    return Object.assign({ dark: 1 }, P.night, { phase: 'night' });
   }
 
   // ── 크기 ──
@@ -178,10 +178,11 @@
     const dt = Math.min(0.05, (now - (last || now)) / 1000); last = now; clock += dt;
     const goal = touched ? target : Math.sin(clock * 0.6) * 0.05;
     tv += ((goal - tilt) * 6 - tv * 2.2) * dt; tilt += tv * dt * 6;
-    boatV += Math.sin(tilt) * 0.9 * dt; boatV *= 0.985; boatX += boatV * dt;
+    // tilt>0이면 오른쪽 수면이 높아지므로(surfaceY) 배·물고기는 낮은 왼쪽으로
+    boatV -= Math.sin(tilt) * 0.9 * dt; boatV *= 0.985; boatX += boatV * dt;
     if (boatX < 0.06) { boatX = 0.06; boatV = Math.abs(boatV) * 0.4; }
     if (boatX > 0.94) { boatX = 0.94; boatV = -Math.abs(boatV) * 0.4; }
-    fish.forEach((f) => { f.x += (f.v + Math.sin(tilt) * 0.05) * dt; if (f.x < -0.05) f.x = 1.05; if (f.x > 1.05) f.x = -0.05; });
+    fish.forEach((f) => { f.x += (f.v - Math.sin(tilt) * 0.05) * dt; if (f.x < -0.05) f.x = 1.05; if (f.x > 1.05) f.x = -0.05; });
     draw(clock);
     requestAnimationFrame(step);
   }
