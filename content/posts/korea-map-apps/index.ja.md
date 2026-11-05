@@ -31,7 +31,7 @@ tags: ["NAVER地図", "カカオマップ", "韓国 Googleマップ", "韓国旅
 ## NAVER地図
 
 - 表示言語：日本語、英語、中国語（簡体字）、韓国語
-- アプリの説明では、韓国語、英語、日本語、中国語の地図と、英語のナビがあるそうです。
+- アプリの説明によると、韓国語、英語、日本語、中国語の地図と、英語のナビがあります。
 - ダウンロード：[iPhone（App Store）](https://apps.apple.com/app/id311867728)・[Android（Google Play）](https://play.google.com/store/apps/details?id=com.nhn.android.nmap)
 
 日本語で使えるので、日本からの旅行者にはNAVER地図がいちばん使いやすいはずです。
@@ -39,7 +39,7 @@ tags: ["NAVER地図", "カカオマップ", "韓国 Googleマップ", "韓国旅
 ## カカオマップ
 
 - 表示言語：英語、韓国語（日本語には非対応）
-- アプリの説明では、車、公共交通、徒歩、自転車の情報を24時間以内に更新していて、ナビも付いているそうです。
+- アプリの説明によると、車、公共交通、徒歩、自転車の情報は24時間以内に更新され、ナビも付いています。
 - ダウンロード：[iPhone（App Store）](https://apps.apple.com/app/id304608425)・[Android（Google Play）](https://play.google.com/store/apps/details?id=net.daum.android.map)
 
 ## 検索のコツ
