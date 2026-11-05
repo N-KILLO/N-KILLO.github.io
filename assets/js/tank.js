@@ -1,6 +1,6 @@
 /* 부산 바다 어항 — 메인 화면 장식 (2026-11-05)
  * - 하늘·바다 색: 부산 시간(KST) 기준 아침/낮/노을/야경, 시각 사이는 색을 섞는다.
- * - 폰 기울기(deviceorientation)로 물이 출렁이고 배·물고기가 쏠린다. 아이폰은 버튼으로 허용.
+ * - 폰 기울기(deviceorientation, 세워 든 폰을 좌우로 돌리는 기준)로 물이 출렁이고 배·물고기가 쏠린다. 아이폰은 버튼으로 허용.
  * - PC는 마우스 좌우 위치로 기울기 흉내. 손을 안 대면 잔잔히 흔들림.
  * - 동작 줄이기 설정이면 정지 그림 한 장. 화면 밖이거나 탭이 숨으면 멈춘다.
  */
@@ -58,11 +58,21 @@
   // ── 기울기 물리 ──
   let target = 0, tilt = 0, tv = 0, boatX = 0.3, boatV = 0, touched = false;
   const MAX = 0.2; // 최대 수면 기울기(라디안)
+  // 폰을 세워 들고 핸들처럼 좌우로 돌리는 동작 기준. beta·gamma에서 중력 방향을 구해
+  // 화면 평면 안의 기울기 각도를 쓴다(세운 폰·눕힌 폰·가로 화면 모두 같은 식).
+  function screenRoll(beta, gamma, ang) {
+    const b = beta * Math.PI / 180, g = gamma * Math.PI / 180;
+    const gx = Math.cos(b) * Math.sin(g), gy = -Math.sin(b); // 기기 좌표의 중력(x 오른쪽, y 위)
+    const a = ((ang % 360) + 360) % 360;
+    const sx = a === 90 ? -gy : a === 180 ? -gx : a === 270 ? gy : gx;  // 화면 오른쪽 성분
+    const su = a === 90 ? gx : a === 180 ? -gy : a === 270 ? -gx : gy;  // 화면 위쪽 성분
+    return Math.atan2(sx, Math.max(-su, 0.6)); // 눕힌 폰은 분모 하한으로 과민 반응 방지
+  }
+  const FULL = 25 * Math.PI / 180; // 25° 돌리면 최대 기울기
   function onOrient(e) {
-    if (e.gamma == null) return;
-    const ang = (screen.orientation && screen.orientation.angle) || 0;
-    const g = ang === 90 ? e.beta : ang === 270 || ang === -90 ? -e.beta : e.gamma;
-    target = Math.max(-1, Math.min(1, g / 40)) * MAX; touched = true;
+    if (e.gamma == null || e.beta == null) return;
+    const ang = (screen.orientation && screen.orientation.angle) || window.orientation || 0;
+    target = Math.max(-1, Math.min(1, screenRoll(e.beta, e.gamma, ang) / FULL)) * MAX; touched = true;
   }
   if (!reduce) {
     const needAsk = typeof DeviceOrientationEvent !== 'undefined' && typeof DeviceOrientationEvent.requestPermission === 'function';
