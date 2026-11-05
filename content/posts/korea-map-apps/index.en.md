@@ -6,7 +6,7 @@ categories: ["Busan Travel Tips"]
 tags: ["Naver Map", "KakaoMap", "Google Maps Korea", "Korea travel apps", "Busan travel"]
 ---
 
-A map app is one of the first things to set up before a trip to Korea. In most countries Google Maps is all you need, but in Korea it's much easier with **Naver Map** or **KakaoMap** installed as well. Here's what you need to know. (As of November 5, 2026)
+A map app is one of the first things to set up before a trip to Korea. In most countries Google Maps is all you need, but in Korea it's much easier with **Naver Map** or **KakaoMap** installed as well. (As of November 5, 2026)
 
 {{< figure src="busan-cheongsapo.jpg" alt="Cheongsapo lighthouses and the sea in Haeundae, Busan" caption="Cheongsapo, Haeundae-gu, Busan (Aug 2024) · Photo: Korea Tourism Organization (PhoKo), Lee Byeong-hyeon · KOGL Type 1" >}}
 
@@ -24,9 +24,9 @@ App languages are taken from each app's App Store listing.
 
 Korea has long restricted taking high-precision map data out of the country, and Google Maps' route guidance in Korea has been limited as a result.
 
-On **February 27, 2026, the Korean government conditionally approved Google's request to export high-precision (1:5000) map data**, according to an announcement by the Ministry of Land, Infrastructure and Transport and same-day news reports. Google Maps features in Korea may expand, but check the app itself to see what's actually available.
+On **February 27, 2026**, the Korean government conditionally approved Google's request to export high-precision (1:5000) map data, according to an announcement by the Ministry of Land, Infrastructure and Transport and same-day news reports. Google Maps may get more features in Korea, so check the app itself to see what works now.
 
-The simple answer: **keep Google Maps, and add Naver Map or KakaoMap.** Local apps are stronger on Korean shops, restaurants and public transport.
+Keep Google Maps, and add Naver Map or KakaoMap. The local apps have more detail on Korean shops, restaurants and public transport.
 
 ## Naver Map
 
