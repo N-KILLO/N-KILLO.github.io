@@ -73,3 +73,6 @@ figcaption p{margin:0}
 .maps-btns a.kakao{background:#fae100;color:#3c1e1e}
 .maps-btns a.google{background:#4285f4}
 .maps-apps{margin:10px 0 0;font-size:13px;color:var(--sub);line-height:1.7}
+/* 베트남어: 한글 글꼴엔 겹성조(ế, ộ…) 글리프가 없어 부호가 떨어져 보임 → 베트남어 지원 글꼴 우선, 줄간격 여유 */
+:lang(vi), [hreflang="vi"]{font-family:"Segoe UI","Noto Sans","Roboto","Helvetica Neue",Arial,sans-serif}
+:lang(vi) body, body:lang(vi){line-height:1.8}
