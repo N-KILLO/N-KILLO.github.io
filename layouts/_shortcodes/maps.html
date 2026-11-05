@@ -1,0 +1,27 @@
+{{- /* 사용: {{< maps places="광안리해수욕장|Gwangalli Beach; 동백섬|Dongbaekseom" >}}
+     각 장소 = "한국어 검색명|이 언어 표시명" (표시명 생략 시 한국어명) */ -}}
+{{- $guide := site.GetPage "/posts/korea-map-apps" -}}
+<aside class="maps-box">
+  <p class="maps-title">📍 {{ i18n "mapsTitle" }}</p>
+  <ul class="maps-list">
+  {{- range split (.Get "places") ";" }}
+    {{- $p := split (trim . " ") "|" }}
+    {{- $ko := trim (index $p 0) " " }}
+    {{- $label := $ko }}{{ if gt (len $p) 1 }}{{ $label = trim (index $p 1) " " }}{{ end }}
+    {{- $q := $ko | urlquery }}
+    <li>
+      <span class="maps-name">{{ $label }}</span>
+      <span class="maps-btns">
+        <a class="naver" href="https://map.naver.com/p/search/{{ $q }}" target="_blank" rel="noopener">{{ i18n "naverMap" }}</a>
+        <a class="kakao" href="https://map.kakao.com/link/search/{{ $q }}" target="_blank" rel="noopener">{{ i18n "kakaoMap" }}</a>
+        <a class="google" href="https://www.google.com/maps/search/?api=1&amp;query={{ $ko }}" target="_blank" rel="noopener">{{ i18n "googleMap" }}</a>
+      </span>
+    </li>
+  {{- end }}
+  </ul>
+  <p class="maps-apps">{{ i18n "getApps" }}:
+    {{ i18n "naverMap" }} <a href="https://apps.apple.com/app/id311867728" target="_blank" rel="noopener">iPhone</a> · <a href="https://play.google.com/store/apps/details?id=com.nhn.android.nmap" target="_blank" rel="noopener">Android</a>
+    &nbsp;|&nbsp; {{ i18n "kakaoMap" }} <a href="https://apps.apple.com/app/id304608425" target="_blank" rel="noopener">iPhone</a> · <a href="https://play.google.com/store/apps/details?id=net.daum.android.map" target="_blank" rel="noopener">Android</a>
+    {{- with $guide }}{{ if ne .RelPermalink $.Page.RelPermalink }}<br><a href="{{ .RelPermalink }}">{{ i18n "whyLocalMaps" }} →</a>{{ end }}{{ end }}
+  </p>
+</aside>

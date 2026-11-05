@@ -52,6 +52,8 @@ Source: [official timetable](https://busanfireworks.com/program/schedule.php) (K
 
 Source: [official location page](https://busanfireworks.com/content/location)
 
+{{< maps places="광안리해수욕장|Gwangalli Beach; 이기대|Igidae; 동백섬|Dongbaekseom Island" >}}
+
 ## Road closures
 
 Busan City announced that **Gwangan Bridge (Gwangandaegyo) is under traffic control from November 2 to November 8**. For road closures around the venue on the day, see the [official traffic notice](https://busanfireworks.com/content/traffic_en).

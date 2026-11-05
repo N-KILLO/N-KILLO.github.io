@@ -62,3 +62,14 @@ figcaption p{margin:0}
 .card .thumb{flex:0 0 112px;width:112px;height:84px;object-fit:cover;border-radius:10px}
 .card .txt{min-width:0}
 @media (max-width:480px){.card .thumb{flex-basis:88px;width:88px;height:66px}}
+.maps-box{margin:20px 0;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.maps-title{margin:0 0 8px;font-weight:700}
+.maps-list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.maps-list li{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:6px 10px}
+.maps-name{font-weight:600}
+.maps-btns{display:flex;flex-wrap:wrap;gap:6px}
+.maps-btns a{font-size:13px;padding:4px 10px;border-radius:999px;text-decoration:none;color:#fff;white-space:nowrap}
+.maps-btns a.naver{background:#03c75a}
+.maps-btns a.kakao{background:#fae100;color:#3c1e1e}
+.maps-btns a.google{background:#4285f4}
+.maps-apps{margin:10px 0 0;font-size:13px;color:var(--sub);line-height:1.7}

@@ -18,3 +18,15 @@ other = "다른 언어로 읽기"
 other = "목차"
 [noPosts]
 other = "아직 글이 없습니다."
+[mapsTitle]
+other = "지도로 보기"
+[naverMap]
+other = "네이버 지도"
+[kakaoMap]
+other = "카카오맵"
+[googleMap]
+other = "구글 지도"
+[getApps]
+other = "앱 받기"
+[whyLocalMaps]
+other = "구글맵 말고 네이버 지도·카카오맵을 쓰는 이유"

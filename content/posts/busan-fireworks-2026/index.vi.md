@@ -52,6 +52,8 @@ Nguồn: [lịch trình chính thức](https://busanfireworks.com/program/schedu
 
 Nguồn: [trang hướng dẫn đường đi chính thức](https://busanfireworks.com/content/location)
 
+{{< maps places="광안리해수욕장|Bãi biển Gwangalli; 이기대|Igidae; 동백섬|Đảo Dongbaek" >}}
+
 ## Cấm đường
 
 Thành phố Busan thông báo **cầu Gwangan (Gwangandaegyo) bị kiểm soát giao thông từ ngày 2/11 đến 8/11**. Thông tin cấm đường quanh khu vực lễ hội trong ngày diễn ra sự kiện, xem tại [thông báo chính thức](https://busanfireworks.com/content/traffic_en).

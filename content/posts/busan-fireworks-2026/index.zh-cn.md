@@ -52,6 +52,8 @@ tags: ["釜山烟花节", "广安里", "釜山旅游", "韩国节庆", "11月釜
 
 来源：[官方交通指南](https://busanfireworks.com/content/location)
 
+{{< maps places="광안리해수욕장|广安里海水浴场; 이기대|二妓台; 동백섬|冬柏岛" >}}
+
 ## 交通管制
 
 釜山市公告，**广安大桥将于11月2日至8日实施交通管制**。活动当天会场周边的管制路段和时间，请查看[官方交通管制公告](https://busanfireworks.com/content/traffic_en)。

@@ -18,3 +18,15 @@ other = "他の言語で読む"
 other = "目次"
 [noPosts]
 other = "まだ記事がありません。"
+[mapsTitle]
+other = "地図アプリで見る"
+[naverMap]
+other = "NAVER地図"
+[kakaoMap]
+other = "カカオマップ"
+[googleMap]
+other = "Googleマップ"
+[getApps]
+other = "アプリ"
+[whyLocalMaps]
+other = "韓国でNAVER地図・カカオマップを使う理由"

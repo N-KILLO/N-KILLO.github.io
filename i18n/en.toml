@@ -18,3 +18,15 @@ other = "Read in another language"
 other = "Contents"
 [noPosts]
 other = "No posts yet."
+[mapsTitle]
+other = "Open in a map app"
+[naverMap]
+other = "Naver Map"
+[kakaoMap]
+other = "KakaoMap"
+[googleMap]
+other = "Google Maps"
+[getApps]
+other = "Get the apps"
+[whyLocalMaps]
+other = "Why use Naver Map or KakaoMap in Korea"

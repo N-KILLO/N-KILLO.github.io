@@ -18,3 +18,15 @@ other = "อ่านในภาษาอื่น"
 other = "สารบัญ"
 [noPosts]
 other = "ยังไม่มีบทความ"
+[mapsTitle]
+other = "ดูในแอปแผนที่"
+[naverMap]
+other = "Naver Map"
+[kakaoMap]
+other = "KakaoMap"
+[googleMap]
+other = "Google Maps"
+[getApps]
+other = "ดาวน์โหลดแอป"
+[whyLocalMaps]
+other = "ทำไมควรใช้ Naver Map และ KakaoMap ในเกาหลี"

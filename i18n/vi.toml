@@ -18,3 +18,15 @@ other = "Đọc bằng ngôn ngữ khác"
 other = "Mục lục"
 [noPosts]
 other = "Chưa có bài viết."
+[mapsTitle]
+other = "Xem trên ứng dụng bản đồ"
+[naverMap]
+other = "Naver Map"
+[kakaoMap]
+other = "KakaoMap"
+[googleMap]
+other = "Google Maps"
+[getApps]
+other = "Tải ứng dụng"
+[whyLocalMaps]
+other = "Vì sao nên dùng Naver Map, KakaoMap ở Hàn Quốc"

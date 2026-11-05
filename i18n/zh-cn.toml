@@ -18,3 +18,15 @@ other = "其他语言版本"
 other = "目录"
 [noPosts]
 other = "暂无文章。"
+[mapsTitle]
+other = "在地图App中查看"
+[naverMap]
+other = "Naver地图"
+[kakaoMap]
+other = "Kakao地图"
+[googleMap]
+other = "谷歌地图"
+[getApps]
+other = "下载App"
+[whyLocalMaps]
+other = "为什么在韩国推荐用Naver地图和Kakao地图"
