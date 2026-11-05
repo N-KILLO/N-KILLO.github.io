@@ -95,7 +95,7 @@ figcaption p{margin:0}
 /* 물결 위 돛단배 (2026-11-05) — 천천히 가로지르며 살짝 흔들림 */
 .waves{position:relative;height:40px}
 .waves > svg:not(.boat){position:absolute;left:0;bottom:0;height:28px}
-.boat-track{position:absolute;inset:0 0 auto 0;height:30px;animation:sail 48s linear infinite}
+.boat-track{position:absolute;inset:0 0 auto 0;height:30px;animation:sail 48s linear -16s infinite}
 .waves .boat{position:absolute;left:0;top:0;width:30px;height:24px;overflow:visible;animation:bob 3.2s ease-in-out infinite;transform-origin:50% 90%}
 .waves .boat path{stroke:none}
 .waves .boat .hull{fill:var(--ink);opacity:.8}
