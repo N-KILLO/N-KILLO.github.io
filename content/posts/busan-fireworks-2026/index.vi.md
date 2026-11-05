@@ -56,7 +56,7 @@ Nguồn: [trang hướng dẫn đường đi chính thức](https://busanfirewor
 
 ## Cấm đường
 
-Thành phố Busan thông báo **cầu Gwangan (Gwangandaegyo) bị kiểm soát giao thông từ ngày 2/11 đến 8/11**. Thông tin cấm đường quanh khu vực lễ hội trong ngày diễn ra sự kiện, xem tại [thông báo chính thức](https://busanfireworks.com/content/traffic_en).
+Thành phố Busan thông báo **cầu Gwangan (Gwangandaegyo) bị kiểm soát giao thông từ ngày 2/11 đến 8/11**. Thông tin cấm đường quanh khu vực lễ hội trong ngày diễn ra sự kiện, xem tại [thông báo kiểm soát giao thông của thành phố Busan cho lễ hội lần thứ 21](https://www.busan.go.kr/nbnews/1761578) (tiếng Hàn).
 
 ## Vé
 

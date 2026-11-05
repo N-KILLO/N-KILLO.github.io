@@ -56,7 +56,7 @@ Source: [official location page](https://busanfireworks.com/content/location)
 
 ## Road closures
 
-Busan City announced that **Gwangan Bridge (Gwangandaegyo) is under traffic control from November 2 to November 8**. For road closures around the venue on the day, see the [official traffic notice](https://busanfireworks.com/content/traffic_en).
+Busan City announced that **Gwangan Bridge (Gwangandaegyo) is under traffic control from November 2 to November 8**. For road closures around the venue on the day, see the [Busan City's traffic control notice for the 21st festival](https://www.busan.go.kr/nbnews/1761578) (in Korean).
 
 ## Tickets
 
