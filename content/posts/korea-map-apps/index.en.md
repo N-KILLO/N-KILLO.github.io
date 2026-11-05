@@ -1,5 +1,5 @@
 ---
-title: "Best Map Apps for Korea — Using Naver Map and KakaoMap Alongside Google Maps"
+title: "Don't Rely on Google Maps Alone in Korea: Naver Map & KakaoMap Guide (2026)"
 date: 2026-11-05T15:30:00+09:00
 description: "Google Maps alone often isn't enough in Korea. How Naver Map and KakaoMap differ, which languages they support, download links and search tips, plus one-tap map links for Busan's top spots."
 categories: ["Busan Travel Tips"]

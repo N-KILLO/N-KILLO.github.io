@@ -1,5 +1,5 @@
 ---
-title: "Ứng dụng bản đồ khi du lịch Hàn Quốc — Dùng Naver Map, KakaoMap cùng Google Maps"
+title: "Du lịch Hàn Quốc chỉ dùng Google Maps có đủ? Hướng dẫn dùng Naver Map và KakaoMap (2026)"
 date: 2026-11-05T15:30:00+09:00
 description: "Ở Hàn Quốc, chỉ dùng Google Maps thường chưa đủ. Bài viết so sánh Naver Map và KakaoMap, ngôn ngữ hỗ trợ, link tải và mẹo tìm kiếm, kèm link bản đồ đến các điểm nổi bật ở Busan."
 categories: ["Mẹo du lịch Busan"]

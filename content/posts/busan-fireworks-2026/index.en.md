@@ -1,5 +1,5 @@
 ---
-title: "Busan Fireworks Festival 2026 Guide — Nov 7 Timetable, How to Get There, Tickets"
+title: "Busan Fireworks Festival 2026 (Nov 7): Show Times, Which Subway Exit to Use & Ticket Deadline"
 date: 2026-11-05T15:00:00+09:00
 description: "The 21st Busan Fireworks Festival is on Saturday, November 7, 2026 at Gwangalli Beach, Igidae and Dongbaekseom. Main show 19:25–19:55. Timetable, subway exits, ticket deadline and traffic info from official sources."
 categories: ["Busan Festivals"]

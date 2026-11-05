@@ -1,5 +1,5 @@
 ---
-title: "韓國旅遊地圖App推薦：Google地圖之外，再裝Naver地圖或Kakao地圖"
+title: "去韓國只用Google地圖夠嗎？2026韓國自由行必裝地圖App：Naver地圖、Kakao地圖懶人包"
 date: 2026-11-05T15:30:00+09:00
 description: "在韓國只用Google地圖常常不夠方便。整理Naver地圖和Kakao地圖的差異、下載連結與搜尋技巧，並附上釜山熱門景點的地圖連結。"
 categories: ["釜山旅遊小撇步"]

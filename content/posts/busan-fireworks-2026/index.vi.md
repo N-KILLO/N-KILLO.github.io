@@ -1,5 +1,5 @@
 ---
-title: "Lễ hội pháo hoa Busan 2026 — Lịch trình ngày 7/11, cách di chuyển, hạn mua vé"
+title: "Lễ hội pháo hoa Busan 2026 (7/11): Giờ bắn pháo hoa chính, cách đi và hạn mua vé – Cẩm nang đầy đủ"
 date: 2026-11-05T15:00:00+09:00
 description: "Lễ hội pháo hoa Busan lần thứ 21 diễn ra vào thứ Bảy, 7/11/2026 tại bãi biển Gwangalli, Igidae và đảo Dongbaek. Màn trình diễn chính 19:25–19:55. Lịch trình, lối ra ga tàu điện ngầm, hạn mua vé và thông tin cấm đường theo nguồn chính thức."
 categories: ["Lễ hội Busan"]
