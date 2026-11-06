@@ -42,3 +42,5 @@ other = "Hoàng hôn"
 other = "Đêm"
 [tiltOn]
 other = "Nghiêng thử"
+[hitsLabel]
+other = "Lượt xem hôm nay / tổng"

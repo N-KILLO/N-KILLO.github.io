@@ -42,3 +42,5 @@ other = "夕焼け"
 other = "夜景"
 [tiltOn]
 other = "傾けてみる"
+[hitsLabel]
+other = "今日 / 累計の閲覧"

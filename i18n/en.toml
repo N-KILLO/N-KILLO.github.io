@@ -42,3 +42,5 @@ other = "Sunset"
 other = "Night"
 [tiltOn]
 other = "Tilt to play"
+[hitsLabel]
+other = "Views today / total"

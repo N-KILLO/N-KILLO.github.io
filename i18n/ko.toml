@@ -42,3 +42,5 @@ other = "노을"
 other = "야경"
 [tiltOn]
 other = "기울여 보기"
+[hitsLabel]
+other = "오늘 / 전체 조회"

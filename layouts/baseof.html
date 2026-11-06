@@ -27,6 +27,10 @@
 </main>
 <footer class="wrap site-footer">
   <p>© {{ now.Year }} {{ site.Title }}</p>
+  {{- if hugo.IsProduction }}
+  {{- $label := i18n "hitsLabel" }}
+  <p class="hits"><img src="https://hits.sh/n-killo.github.io.svg?view=today-total&amp;style=flat-square&amp;labelColor=%236c6a65&amp;color=%230b6e99&amp;label={{ $label | urlquery }}" alt="{{ $label }}" height="20" decoding="async" referrerpolicy="no-referrer"></p>
+  {{- end }}
 </footer>
 </body>
 </html>

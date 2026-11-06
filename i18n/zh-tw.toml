@@ -42,3 +42,5 @@ other = "晚霞"
 other = "夜景"
 [tiltOn]
 other = "傾斜看看"
+[hitsLabel]
+other = "今日 / 總瀏覽"
