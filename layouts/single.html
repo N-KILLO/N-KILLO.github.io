@@ -3,7 +3,7 @@
   <header>
     {{ with .Params.categories }}<p class="kicker">{{ range $i, $c := . }}{{ if $i }} · {{ end }}<a href="{{ (site.GetPage (printf "/categories/%s" ($c | urlize))).RelPermalink }}">{{ $c }}</a>{{ end }}</p>{{ end }}
     <h1>{{ .Title }}</h1>
-    {{ if .IsPage }}
+    {{ if and .IsPage (not .Date.IsZero) }}
     <p class="meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
       {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · {{ i18n "updated" }} {{ .Lastmod.Format "2006-01-02" }}{{ end }}
