@@ -47,7 +47,7 @@ December 21 to 23 are extra weekday openings with weekday hours and prices (16:0
 
 | Ticket | Dates | Entry window | Online | At the gate |
 |---|---|---|---|---|
-| Weekday | Thu, Fri, and Dec 21–23 | from 16:00 | ₩5,900 | ₩7,900 |
+| Weekday | Thu, Fri (except Dec 24–25), and Dec 21–23 | from 16:00 | ₩5,900 | ₩7,900 |
 | Weekend day | Sat, Sun | 11:00–15:00 | ₩5,900 | ₩7,900 |
 | Weekend evening | Sat, Sun | from 16:00 | ₩7,900 | ₩9,900 |
 | Christmas season | Dec 24, 25 | from 11:00 | ₩14,900 | ₩16,900 |

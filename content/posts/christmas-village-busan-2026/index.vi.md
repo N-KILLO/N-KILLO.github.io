@@ -47,7 +47,7 @@ Ngày 21–23/12 mở thêm theo giờ và giá ngày thường (16:00–22:00).
 
 | Loại vé | Ngày áp dụng | Giờ vào cổng | Online | Tại cổng |
 |---|---|---|---|---|
-| Ngày thường | Thứ Năm, Sáu và 21–23/12 | từ 16:00 | 5.900 won | 7.900 won |
+| Ngày thường | Thứ Năm, Sáu (trừ 24–25/12) và 21–23/12 | từ 16:00 | 5.900 won | 7.900 won |
 | Cuối tuần ban ngày | Thứ Bảy, Chủ nhật | 11:00–15:00 | 5.900 won | 7.900 won |
 | Cuối tuần buổi tối | Thứ Bảy, Chủ nhật | từ 16:00 | 7.900 won | 9.900 won |
 | Mùa Giáng sinh | 24, 25/12 | từ 11:00 | 14.900 won | 16.900 won |
