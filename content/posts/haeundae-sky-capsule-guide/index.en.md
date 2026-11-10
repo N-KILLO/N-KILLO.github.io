@@ -120,7 +120,7 @@ Sources: [Sky Capsule timetable](https://www.bluelinepark.com/capsuleTime.do) ·
 | On the day, before your slot | 50% |
 | After your slot has passed | No refund, even if you did not ride |
 
-The site does not publish which slots sell out first, so I have not guessed. It does describe the Sky Capsule as a product "used at a designated boarding time", which is why booking is the default. Third-party travel platforms also sell tickets, but this article only covers the official channel.
+The site describes the Sky Capsule as a product "used at a designated boarding time", which is why booking is the default. Third-party travel platforms also sell tickets, but this article only covers the official channel.
 
 ## Departing from Mipo vs Cheongsapo
 
@@ -180,7 +180,7 @@ From the official "Directions" page and the Busan Tourism Organization.
 
 ### Cheongsapo Station
 
-- Village bus **2, 7 or 10** to the "Blueline Park" (블루라인파크) stop. There is no walking route from a subway station in the official directions.
+- Village bus **2, 7 or 10** to the "Blueline Park" (블루라인파크) stop.
 
 ### Songjeong Station
 
@@ -213,7 +213,6 @@ Only things that come from the official pages.
 - **Fold strollers, carry pets in a carrier.** Manual wheelchairs are fine on the Beach Train and must be folded for the Sky Capsule. Electric wheelchairs are not allowed on either.
 - **Baby changing tables** are in the second-floor women's restrooms at Mipo and Cheongsapo and in the women's restroom by the Songjeong ticket office.
 - **It runs in the rain**, but may stop for heavy rain or typhoons. Check the notice board before you go.
-- Heating and air conditioning inside the capsule, seat orientation and typical waiting times are not stated on the official pages, so they are left out.
 
 ## FAQ
 
@@ -243,7 +242,7 @@ According to the Korea Astronomy and Space Science Institute: 17:13 on November 
 
 ### Is it included in the Visit Busan Pass?
 
-I could not confirm this from official sources for this article. Check the attraction list on the [Visit Busan Pass official site](https://www.visitbusanpass.com/).
+Check the attraction list on the [Visit Busan Pass official site](https://www.visitbusanpass.com/).
 
 ### Can 5 people share one capsule?
 

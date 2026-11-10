@@ -18,7 +18,7 @@ tags: ["ga Busan đến Haeundae", "tàu điện ngầm Busan", "ga Haeundae", "
 | **Xe buýt nhanh 1003** | Không có số liệu chính thức (tùy đường sá) | 2.100 won bằng thẻ, 2.200 won tiền mặt | Không |
 | **Taxi** (loại thường) | Không có số liệu chính thức | Tính theo đồng hồ, mở cửa 4.800 won cho 2 km đầu | Không |
 
-Nếu cần đến đúng giờ, tàu điện ngầm là cách dễ tính thời gian nhất. Xe buýt và taxi phụ thuộc vào tình hình đường, nên bài này chỉ ghi con số cho tàu điện ngầm, phương tiện duy nhất có thời gian chính thức.
+Nếu cần đến đúng giờ, tàu điện ngầm là cách dễ tính thời gian nhất. Thời gian đi xe buýt và taxi phụ thuộc vào tình hình đường.
 
 ## Tàu điện ngầm: tuyến 1, đổi ở Seomyeon, tuyến 2
 
@@ -78,7 +78,7 @@ Trong phần giao thông của trang bãi biển Haeundae, Tổng cục Du lịc
 | Giá ban đêm (người lớn) | 2.500 won bằng thẻ, 2.600 won tiền mặt (xe ghế ngồi chạy đêm) |
 | Trạm xuống | Bãi biển Haeundae (해운대해수욕장) |
 
-Bảng tuyến của thành phố Busan xếp xe 1003 vào loại xe buýt nhanh (ghế ngồi), chạy giữa Cheonggang-ri ở Gijang và trạm bệnh viện đại học. Bảng này lập ngày 01/02/2023. **Tôi không xác minh được giờ chuyến đầu, chuyến cuối, tần suất và thời gian chạy hiện tại nên không ghi vào bài.** Trước khi đi, bạn nên tìm "1003" trên Naver Map hoặc KakaoMap để xem giờ xe đến theo thời gian thực.
+Bảng tuyến của thành phố Busan xếp xe 1003 vào loại xe buýt nhanh (ghế ngồi), chạy giữa Cheonggang-ri ở Gijang và trạm bệnh viện đại học. Bảng này lập ngày 01/02/2023. Giờ chuyến đầu, chuyến cuối và tần suất hiện tại, trước khi đi bạn tìm "1003" trên Naver Map hoặc KakaoMap để xem giờ xe đến theo thời gian thực.
 
 Nguồn (tiếng Hàn): [visitbusan.net bãi biển Haeundae](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=373&lang_cd=ko) · [visitbusan.net Choryang Ibagu-gil](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000202004001000&uc_seq=58) · [giá xe buýt thành phố Busan](https://www.busan.go.kr/depart/ecnmahpublicfee01) · [hệ thống thông tin xe buýt Busan](http://bus.busan.go.kr/busanBIMS/default.asp)
 
@@ -92,7 +92,7 @@ Thành phố Busan công bố giá cước taxi loại thường như sau. Mức
 | Cước theo quãng đường | 100 won mỗi 132 m |
 | Cước theo thời gian | 100 won mỗi 33 giây khi xe chạy dưới 15 km/h |
 
-Không có nguồn chính thức nào ước tính cước từ ga Busan đến Haeundae, nên bài này không nêu con số. Khi kẹt xe, cước theo thời gian cộng dồn và tổng tiền có thể chênh nhiều. Bạn có thể tham khảo mức ước tính trên ứng dụng bản đồ.
+Cước ước tính từ ga Busan đến Haeundae, bạn có thể tham khảo trên ứng dụng bản đồ. Khi kẹt xe, cước theo thời gian cộng dồn và tổng tiền có thể chênh nhiều.
 
 Nguồn (tiếng Hàn): [giá cước taxi thành phố Busan](https://www.busan.go.kr/depart/ahtaxi03)
 

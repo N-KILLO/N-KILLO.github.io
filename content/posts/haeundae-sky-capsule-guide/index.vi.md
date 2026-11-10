@@ -120,7 +120,7 @@ Nguồn: [Lịch Sky Capsule](https://www.bluelinepark.com/capsuleTime.do) · [G
 | Trong ngày, trước khung vào cửa | 50% |
 | Sau khi khung đã qua | Không hoàn, kể cả khi bạn chưa đi |
 
-Trang web không công bố khung giờ nào hết vé trước, nên tôi không đoán. Trang mô tả Sky Capsule là sản phẩm "sử dụng vào giờ lên khoang đã chỉ định", nên đặt trước là mặc định. Các nền tảng du lịch cũng bán vé, nhưng bài này chỉ nói về kênh chính thức.
+Trang web mô tả Sky Capsule là sản phẩm "sử dụng vào giờ lên khoang đã chỉ định", nên đặt trước là mặc định. Các nền tảng du lịch cũng bán vé, nhưng bài này chỉ nói về kênh chính thức.
 
 ## Đi từ Mipo hay từ Cheongsapo
 
@@ -180,7 +180,7 @@ Theo trang "Chỉ đường" chính thức và Tổng cục Du lịch Busan.
 
 ### Ga Cheongsapo
 
-- Xe buýt làng **2, 7 hoặc 10** đến trạm "Blueline Park" (블루라인파크). Hướng dẫn chính thức không có lối đi bộ từ ga tàu điện.
+- Xe buýt làng **2, 7 hoặc 10** đến trạm "Blueline Park" (블루라인파크).
 
 ### Ga Songjeong
 
@@ -213,7 +213,6 @@ Chỉ gồm những gì có trên các trang chính thức.
 - **Gấp xe đẩy, cho thú cưng vào lồng.** Xe lăn tay đi được Beach Train và phải gấp lại khi đi Sky Capsule. Xe lăn điện không được đi cả hai.
 - **Bàn thay tã** ở nhà vệ sinh nữ tầng 2 của ga Mipo và Cheongsapo, và nhà vệ sinh nữ cạnh quầy vé Songjeong.
 - **Trời mưa vẫn chạy**, nhưng có thể dừng khi mưa lớn hoặc bão. Xem thông báo trước khi đi.
-- Điều hòa trong khoang, hướng ghế và thời gian chờ trung bình không được ghi trên trang chính thức, nên bài này bỏ qua.
 
 ## Câu hỏi thường gặp
 
@@ -243,7 +242,7 @@ Theo KASI: 17:13 ngày 24/11, 17:11 từ 3 đến 8/12, 17:17 ngày 24/12 và 17
 
 ### Visit Busan Pass có bao gồm không?
 
-Tôi chưa xác nhận được từ nguồn chính thức cho bài này. Bạn kiểm tra danh sách điểm tham quan trên [trang chính thức Visit Busan Pass](https://www.visitbusanpass.com/).
+Bạn kiểm tra danh sách điểm tham quan trên [trang chính thức Visit Busan Pass](https://www.visitbusanpass.com/).
 
 ### 5 người đi chung một khoang được không?
 

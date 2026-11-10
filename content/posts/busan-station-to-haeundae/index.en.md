@@ -18,7 +18,7 @@ tags: ["Busan Station to Haeundae", "Busan subway", "Haeundae Station", "Bus 100
 | **Express bus 1003** | No official figure (depends on traffic) | ₩2,100 by card, ₩2,200 cash | None |
 | **Taxi** (standard) | No official figure | Meter, starting at ₩4,800 for the first 2 km | None |
 
-The subway is the one option with a predictable arrival time. Bus and taxi times change with traffic, so the subway is the only one I give a number for.
+The subway is the one option with a predictable arrival time. Bus and taxi times change with traffic.
 
 ## Subway: Line 1, change at Seomyeon, Line 2
 
@@ -78,7 +78,7 @@ The Busan Tourism Organization lists buses 139, 307 and **1003** for the Haeunda
 | Late-night adult fare | ₩2,500 by card, ₩2,600 cash (late-night seated bus) |
 | Where to get off | Haeundae Beach stop (해운대해수욕장) |
 
-The city's route table classes 1003 as an express (seated) bus running between Cheonggang-ri in Gijang and the university hospital stop. That table is dated February 1, 2023. **I could not confirm current first and last departures, frequency or travel time, so I have left them out.** Before you ride, search "1003" in Naver Map or KakaoMap for live arrival times.
+The city's route table classes 1003 as an express (seated) bus running between Cheonggang-ri in Gijang and the university hospital stop. That table is dated February 1, 2023. For current first and last departures and frequency, search "1003" in Naver Map or KakaoMap before you ride for live arrival times.
 
 Sources (Korean): [visitbusan.net Haeundae Beach](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=373&lang_cd=ko) · [visitbusan.net Choryang Ibagu-gil](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000202004001000&uc_seq=58) · [Busan city bus fares](https://www.busan.go.kr/depart/ecnmahpublicfee01) · [Busan bus information system](http://bus.busan.go.kr/busanBIMS/default.asp)
 
@@ -92,7 +92,7 @@ Busan city publishes these fares for standard taxis. They took effect on June 1,
 | Distance charge | ₩100 per 132 m |
 | Time charge | ₩100 per 33 seconds when moving under 15 km/h |
 
-No official source gives an estimated fare for Busan Station to Haeundae, so I am not quoting one. The time charge adds up in heavy traffic, and the total can vary a lot. A map app's fare estimate is the best guide.
+For an estimated fare from Busan Station to Haeundae, a map app's fare estimate is the best guide. The time charge adds up in heavy traffic, and the total can vary a lot.
 
 Source (Korean): [Busan city taxi fares](https://www.busan.go.kr/depart/ahtaxi03)
 

@@ -10,7 +10,7 @@ The 13th Haeundae Light Festival (해운대빛축제) runs from **Saturday, Nove
 
 {{< figure src="light-festival-beach.jpg" alt="Blue festival lights covering the sand at Haeundae Beach, with a crescent moon sculpture" caption="Light festival on Haeundae Beach (2020) · Photo: Korea Tourism Organization (PhoKo), Busan Tourism Organization · KOGL Type 1" >}}
 
-> I couldn't find the daily lighting hours or any admission details in the official announcements yet. Check with the Haeundae-gu Culture & Tourism Division (+82-51-749-4062, Korean) or call the 1330 Korea Travel Hotline (English available) before you go.
+> For daily lighting hours and admission details, check with the Haeundae-gu Culture & Tourism Division (+82-51-749-4062, Korean) or call the 1330 Korea Travel Hotline (English available) before you go.
 
 ## Quick facts
 
@@ -88,11 +88,11 @@ November 28, 2026 (Saturday) to January 10, 2027 (Sunday).
 
 ### What time do the lights turn on each night?
 
-This year's hours haven't appeared in the official material yet. Last year they were 18:00–23:00. Check with the district office for 2026.
+Last year they were 18:00–23:00. Check with the district office for 2026.
 
 ### Is there an entry fee?
 
-The official material doesn't mention one, so I won't guess. Ask the Culture & Tourism Division (+82-51-749-4062) or the 1330 hotline.
+Ask the Culture & Tourism Division (+82-51-749-4062) or the 1330 hotline.
 
 ### Which subway exit?
 

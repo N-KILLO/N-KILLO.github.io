@@ -30,7 +30,7 @@ Vì sao có hai khung giờ? Vì hai nguồn khác nhau. Trang web của làng c
 
 Trung tâm thông tin (203 Gamnae 2-ro) nằm gần lối vào. Theo trang web chính thức, tại đây bạn có thể:
 
-- **Mua bản đồ tour ngõ hẻm.** Đây là bản đồ đóng dấu, đánh dấu các điểm cần đi qua. Giá không ghi trên trang web, bạn hỏi tại quầy.
+- **Mua bản đồ tour ngõ hẻm.** Đây là bản đồ đóng dấu, đánh dấu các điểm cần đi qua. Bạn hỏi giá tại quầy.
 - **Gửi hành lý.** Có dịch vụ giữ đồ.
 - **Nhờ giới thiệu hướng dẫn viên của làng.** Trung tâm sẽ giới thiệu khi bạn cần.
 
@@ -75,7 +75,7 @@ Tổng cục Du lịch Busan nêu ba điểm về ứng xử:
 - **Không bay flycam.** Trang web chính thức cũng có thông báo "No drones".
 - **Không chụp ảnh, quay phim xâm phạm đời tư của cư dân.** Đừng hướng máy vào cửa, cửa sổ hay người trong nhà.
 
-Ngoài ra, Saha-gu đã chỉ định khu vực này là khu quản lý đặc biệt theo Luật Xúc tiến Du lịch, có hiệu lực từ 01/01/2027. Quy định cụ thể và cách áp dụng nên được xác nhận qua thông báo của quận và trang web của làng trước thời điểm đó. Bài này không viết những chi tiết chưa được công bố.
+Ngoài ra, Saha-gu đã chỉ định khu vực này là khu quản lý đặc biệt theo Luật Xúc tiến Du lịch, có hiệu lực từ 01/01/2027. Quy định cụ thể và cách áp dụng nên được xác nhận qua thông báo của quận và trang web của làng trước thời điểm đó.
 
 Nguồn: [Trang web Quận Saha-gu](https://www.saha.go.kr/) (banner trang chủ, tiếng Hàn, kiểm tra 08/11/2026)
 

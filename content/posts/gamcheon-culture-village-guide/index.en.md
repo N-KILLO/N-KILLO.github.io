@@ -30,7 +30,7 @@ Why two sets of hours? They come from two sources. The official village site onl
 
 The information center (203 Gamnae 2-ro) sits near the entrance. According to the official website you can:
 
-- **Buy the alley-tour map.** It is the stamp-tour map that marks the points to walk between. The price is not listed on the website, so ask at the counter.
+- **Buy the alley-tour map.** It is the stamp-tour map that marks the points to walk between. Ask the price at the counter.
 - **Store your bags.** There is a luggage storage service.
 - **Ask for a village guide.** The center introduces local interpreters on request.
 
@@ -75,7 +75,7 @@ The Busan Tourism Organization lists three points of etiquette:
 - **No drones.** The official website also carries a "No drones" notice.
 - **Do not photograph or film residents' private lives.** Keep cameras out of doorways and windows, and do not photograph people without asking.
 
-On top of this, Saha-gu has designated the area a special management zone under the Tourism Promotion Act, effective January 1, 2027. What the rules will be, and how they will be enforced, should be confirmed through the district office and the village website before then. This post does not describe details that have not been published.
+On top of this, Saha-gu has designated the area a special management zone under the Tourism Promotion Act, effective January 1, 2027. What the rules will be, and how they will be enforced, should be confirmed through the district office and the village website before then.
 
 Source: [Saha-gu Office website](https://www.saha.go.kr/) (main banner, Korean, checked November 8, 2026)
 

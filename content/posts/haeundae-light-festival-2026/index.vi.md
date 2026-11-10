@@ -10,7 +10,7 @@ tags: ["Lễ hội ánh sáng Haeundae", "Haeundae", "du lịch Busan", "Busan m
 
 {{< figure src="light-festival-beach.jpg" alt="Bãi cát biển Haeundae phủ đèn xanh và mô hình trăng lưỡi liềm" caption="Lễ hội ánh sáng trên bãi biển Haeundae (2020) · Ảnh: Tổng cục Du lịch Hàn Quốc (PhoKo), Busan Tourism Organization · KOGL Loại 1" >}}
 
-> Giờ thắp đèn hằng ngày và phí tham quan hiện chưa có trong thông báo chính thức. Trước khi đi, quý khách vui lòng hỏi Phòng Văn hóa – Du lịch quận Haeundae (+82 51 749 4062, tiếng Hàn) hoặc tổng đài du lịch 1330 (có hỗ trợ tiếng Việt).
+> Giờ thắp đèn hằng ngày và phí tham quan, trước khi đi quý khách vui lòng hỏi Phòng Văn hóa – Du lịch quận Haeundae (+82 51 749 4062, tiếng Hàn) hoặc tổng đài du lịch 1330 (có hỗ trợ tiếng Việt).
 
 ## Thông tin nhanh
 
@@ -88,11 +88,11 @@ Từ 28/11/2026 (thứ Bảy) đến 10/01/2027 (Chủ nhật).
 
 ### Mỗi tối đèn bật lúc mấy giờ?
 
-Giờ năm nay chưa có trong tài liệu chính thức. Năm ngoái (lần thứ 12) là 18:00–23:00. Quý khách vui lòng xác nhận với quận Haeundae.
+Năm ngoái (lần thứ 12) là 18:00–23:00. Giờ năm nay, quý khách vui lòng xác nhận với quận Haeundae.
 
 ### Có mất phí vào cửa không?
 
-Tài liệu chính thức không nhắc đến phí, nên ở đây chúng tôi không khẳng định. Quý khách có thể hỏi số +82 51 749 4062 hoặc tổng đài 1330.
+Về phí vào cửa, quý khách có thể hỏi số +82 51 749 4062 hoặc tổng đài 1330.
 
 ### Xuống ga nào, lối ra số mấy?
 
