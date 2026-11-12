@@ -28,7 +28,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
 :lang(vi) body, body:lang(vi){line-height:1.8}
 a{color:var(--accent)}
 /* 한국어 제목은 낱말 중간에서 끊지 않는다 */
-:lang(ko) h1,:lang(ko) h2,:lang(ko) h3,:lang(ko) .sub,:lang(ko) .cap{word-break:keep-all;overflow-wrap:anywhere}
+:lang(ko) h1,:lang(ko) h2,:lang(ko) h3,:lang(ko) .sub,:lang(ko) .cover-cap strong{word-break:keep-all;overflow-wrap:anywhere}
 .wrap{max-width:1080px;margin:0 auto;padding-left:max(var(--pad),env(safe-area-inset-left,0px));padding-right:max(var(--pad),env(safe-area-inset-right,0px))}
 
 /* ── 머리말 ── */
@@ -71,6 +71,7 @@ a{color:var(--accent)}
 .cover-photo{display:block;position:relative;z-index:2;margin:0 var(--pad) 26px;color:inherit;text-decoration:none}
 .cover-photo .frame{display:block;overflow:hidden;aspect-ratio:4/5;background:var(--line)}
 .cover-photo picture{display:block;width:100%;height:100%}
+html:not(.js) .cover-photo picture{display:none}
 .cover-photo img{display:block;width:100%;height:100%;object-fit:cover}
 .cover-photo:focus-visible{outline:3px solid var(--accent);outline-offset:-3px}
 .cover-cap{display:block;padding-top:14px}

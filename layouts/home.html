@@ -1,5 +1,5 @@
 {{ define "cover" }}
-{{- /* 표지: 큰 제목 줄이 스크롤에 따라 좌우로 빠져나가고, 최신 글 사진이 기울어진 작은 창에서 화면 가득 펼쳐진다.
+{{- /* 표지: 큰 제목 줄이 스크롤에 따라 좌우로 빠져나가고, 표지 사진이 기울어진 작은 창에서 화면 가득 펼쳐진다. 사진 아래 글귀는 최신 글로 이어진다.
      진행도(--p)는 kinetic.js가 넣는다. 동작 줄이기·JS 없음이면 정지 화면. */ -}}
 {{- /* 표지는 첫 쪽에만. 여기서 쪽 나눔을 먼저 만들어 두고 본문에서는 .Paginator로 이어 쓴다. */ -}}
 {{ $pager := .Paginate (where site.RegularPages "Section" "posts") }}
@@ -16,22 +16,34 @@
       </h1>
       <p class="cover-lede">{{ site.Params.description }}</p>
     </div>
+    {{- /* 표지 사진: 운영자가 직접 찍은 부산 사진(assets/cover). 방문할 때마다 다음 사진으로 넘어간다.
+         사진 주소 목록을 data-covers에 싣고 바로 아래 스크립트가 한 장만 불러온다. JS가 없으면 첫 사진. */}}
+    {{- $covers := slice (dict "f" "cover/cover-01.jpg" "m" "Center" "d" "Center") (dict "f" "cover/cover-02.jpg" "m" "BottomRight" "d" "Bottom") (dict "f" "cover/cover-03.jpg" "m" "Center" "d" "Center" "crop" "1740x1088 Left") (dict "f" "cover/cover-04.jpg" "m" "Bottom" "d" "Bottom") }}
+    {{- $set := slice }}
+    {{- range $covers }}
+      {{- $c := . }}
+      {{- with resources.Get $c.f }}
+        {{- $m := .Fill (printf "750x938 webp q76 %s" $c.m) }}
+        {{- $wide := . }}{{ with $c.crop }}{{ $wide = $wide.Crop . }}{{ end }}
+        {{- $d := $wide.Fill (printf "1600x1000 webp q74 %s" $c.d) }}
+        {{- $set = $set | append (dict "m" $m.RelPermalink "d" $d.RelPermalink) }}
+      {{- end }}
+    {{- end }}
     {{- with $lead }}
     {{- $post := . }}
-    {{- with .Resources.GetMatch "*.jpg" }}
-    {{- $m := .Fill "750x938 webp q74" }}{{ $d := .Fill "1600x1000 webp q72" }}
-    <a class="cover-photo" href="{{ $post.RelPermalink }}">
+    {{- $first := index $set 0 }}
+    <a class="cover-photo" href="{{ $post.RelPermalink }}" data-covers="{{ $set | jsonify }}">
       <span class="frame"><picture>
-        <source media="(min-width:900px)" srcset="{{ $d.RelPermalink }}">
-        <img src="{{ $m.RelPermalink }}" alt="" width="750" height="938" decoding="async" fetchpriority="high">
-      </picture></span>
+        <source media="(min-width:900px)">
+        <img alt="" width="750" height="938" decoding="async" fetchpriority="high">
+      </picture><noscript><img src="{{ $first.m }}" alt="" width="750" height="938"></noscript></span>
+      <script>(function(){var a=document.currentScript.parentNode,c=JSON.parse(a.getAttribute("data-covers")),n=c.length,i=NaN;try{i=parseInt(localStorage.getItem("cover"),10)}catch(e){}i=isNaN(i)?Math.floor(Math.random()*n):(i+1)%n;try{localStorage.setItem("cover",i)}catch(e){}a.querySelector("source").srcset=c[i].d;a.querySelector("img").src=c[i].m})()</script>
       <span class="cover-cap">
         <span class="k">{{ i18n "latest" }}{{ with $post.Params.categories }} · {{ index . 0 }}{{ end }} · {{ $post.Date.Format "2006.01.02" }}</span>
         <strong>{{ index (split $post.Title "｜") 0 }}</strong>
         <span class="go" aria-hidden="true">→</span>
       </span>
     </a>
-    {{- end }}
     {{- end }}
   </div>
 </section>
