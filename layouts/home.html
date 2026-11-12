@@ -1,8 +1,48 @@
+{{ define "cover" }}
+{{- /* 표지: 큰 제목 줄이 스크롤에 따라 좌우로 빠져나가고, 최신 글 사진이 기울어진 작은 창에서 화면 가득 펼쳐진다.
+     진행도(--p)는 kinetic.js가 넣는다. 동작 줄이기·JS 없음이면 정지 화면. */ -}}
+{{- /* 표지는 첫 쪽에만. 여기서 쪽 나눔을 먼저 만들어 두고 본문에서는 .Paginator로 이어 쓴다. */ -}}
+{{ $pager := .Paginate (where site.RegularPages "Section" "posts") }}
+{{ if eq $pager.PageNumber 1 }}
+{{ $lead := partialCached "lead.html" . site.Language.Lang }}
+<section class="cover">
+  <div class="cover-pin">
+    <div class="wrap cover-in">
+      <p class="cover-kicker" aria-hidden="true"><span>Busan · 35.18°N 129.08°E</span><span class="hint">Scroll ↓</span></p>
+      <h1 class="cover-title" aria-label="{{ site.Title }}">
+        {{- range $i, $l := split (i18n "heroLines") "|" }}
+        <span class="line" style="--n:{{ strings.RuneCount $l }};--i:{{ $i }}" aria-hidden="true"><span class="slide"><span class="rise">{{ $l }}</span></span></span>
+        {{- end }}
+      </h1>
+      <p class="cover-lede">{{ site.Params.description }}</p>
+    </div>
+    {{- with $lead }}
+    {{- $post := . }}
+    {{- with .Resources.GetMatch "*.jpg" }}
+    {{- $m := .Fill "750x938 webp q74" }}{{ $d := .Fill "1600x1000 webp q72" }}
+    <a class="cover-photo" href="{{ $post.RelPermalink }}">
+      <span class="frame"><picture>
+        <source media="(min-width:900px)" srcset="{{ $d.RelPermalink }}">
+        <img src="{{ $m.RelPermalink }}" alt="" width="750" height="938" decoding="async" fetchpriority="high">
+      </picture></span>
+      <span class="cover-cap">
+        <span class="k">{{ i18n "latest" }}{{ with $post.Params.categories }} · {{ index . 0 }}{{ end }} · {{ $post.Date.Format "2006.01.02" }}</span>
+        <strong>{{ index (split $post.Title "｜") 0 }}</strong>
+        <span class="go" aria-hidden="true">→</span>
+      </span>
+    </a>
+    {{- end }}
+    {{- end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 {{ define "main" }}
-<section class="intro">
-  <h1>{{ site.Title }}</h1>
-  <p>{{ site.Params.description }}</p>
-  {{- /* 부산 바다 어항: 부산 시간 기준 아침/낮/노을/야경, 폰 기울기로 출렁임. 장식용(스크린리더 무시) */}}
+{{ $pager := .Paginator }}
+{{ if eq $pager.PageNumber 1 }}
+{{- /* 부산 바다 어항: 부산 시간 기준 아침/낮/노을/야경, 폰 기울기로 출렁임. 장식용(스크린리더 무시) */}}
+<section class="now">
   <div class="tank" data-now="{{ i18n "tankNow" }}" data-morning="{{ i18n "tankMorning" }}" data-day="{{ i18n "tankDay" }}" data-sunset="{{ i18n "tankSunset" }}" data-night="{{ i18n "tankNight" }}">
     <canvas aria-hidden="true"></canvas>
     <span class="tank-label" aria-hidden="true"></span>
@@ -11,11 +51,15 @@
 </section>
 {{ $tank := resources.Get "js/tank.js" | minify | fingerprint }}
 <script src="{{ $tank.RelPermalink }}" integrity="{{ $tank.Data.Integrity }}" defer></script>
-<h2 class="section-title">{{ i18n "latest" }}</h2>
+{{ end }}
+{{ $lead := partialCached "lead.html" . site.Language.Lang }}
 {{ $posts := where site.RegularPages "Section" "posts" }}
-{{ $pager := .Paginate $posts }}
-<div class="cards-rise">
-{{ range $pager.Pages }}{{ partial "card.html" . }}{{ else }}<p>{{ i18n "noPosts" }}</p>{{ end }}
-</div>
+{{- /* 표지에 실린 최신 글은 목록에서 건너뛴다 */}}
+<section class="index">
+  <header class="index-head"><h2>{{ i18n "latest" }}</h2><span class="count">{{ len $posts }}</span></header>
+  {{ range $pager.Pages }}
+    {{- if ne . $lead }}{{ partial "card.html" . }}{{ end }}
+  {{ else }}<p>{{ i18n "noPosts" }}</p>{{ end }}
+</section>
 {{ partial "pager.html" $pager }}
 {{ end }}

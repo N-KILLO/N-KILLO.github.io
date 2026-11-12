@@ -1,0 +1,6 @@
+{{- /* 표지에 실을 글: 사진이 있는 가장 최신 글 */ -}}
+{{- $lead := false -}}
+{{- range first 8 (where site.RegularPages "Section" "posts") -}}
+  {{- if and (not $lead) (.Resources.GetMatch "*.jpg") }}{{ $lead = . }}{{ end -}}
+{{- end -}}
+{{- return $lead -}}

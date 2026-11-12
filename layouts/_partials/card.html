@@ -1,10 +1,12 @@
-<article class="card">
+{{- $parts := split .Title "｜" -}}
+<article class="entry reveal">
   <a href="{{ .RelPermalink }}">
-    {{ with .Resources.GetMatch "*.jpg" }}{{ $t := .Fill "224x168 q75" }}<img class="thumb" src="{{ $t.RelPermalink }}" alt="" width="112" height="84" loading="lazy">{{ end }}
     <div class="txt">
-    <h3>{{ .Title }}</h3>
-    <p>{{ or .Description .Summary | plainify | htmlUnescape | truncate 110 }}</p>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <p class="kicker">{{ with .Params.categories }}<span>{{ index . 0 }}</span>{{ end }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></p>
+      <h3>{{ index $parts 0 }}</h3>
+      {{ if gt (len $parts) 1 }}<p class="sub">{{ index $parts 1 }}</p>{{ end }}
+      <p class="dek">{{ or .Description .Summary | plainify | htmlUnescape | truncate 110 }}</p>
     </div>
+    {{ with .Resources.GetMatch "*.jpg" }}{{ $t := .Fill "400x300 q75" }}<img class="thumb" src="{{ $t.RelPermalink }}" alt="" width="200" height="150" loading="lazy" decoding="async">{{ end }}
   </a>
 </article>

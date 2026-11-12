@@ -32,6 +32,16 @@
 {{ end }}
 {{ with .Resources.GetMatch "*gwangan*.jpg" | default (.Resources.GetMatch "*.jpg") }}{{ $og := .Fill "1200x630 q80" }}<meta property="og:image" content="{{ $og.Permalink }}"><meta name="twitter:card" content="summary_large_image">{{ else }}<meta name="twitter:card" content="summary">{{ end }}
 {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">{{ end }}
+{{- if .IsHome }}
+{{- /* 표지 제목 전용 글꼴: 제목에 쓰는 글자만 받아 온다(몇 KB). 못 받으면 기본 글꼴로 나온다. */}}
+{{- $fam := index (dict "ko" "Hahmlet:wght@900" "ja" "Shippori Mincho B1:wght@800" "zh-cn" "Noto Serif SC:wght@900" "zh-tw" "Noto Serif TC:wght@900" "th" "Noto Serif Thai:wght@900" "en" "Bodoni Moda:wght@900" "vi" "Bodoni Moda:wght@900") site.Language.Lang }}
+{{- with $fam }}
+{{- $txt := replace (i18n "heroLines") "|" "" | upper }}
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{- $u := printf "https://fonts.googleapis.com/css2?family=%s&text=%s&display=block" (replace . " " "+") (urlquery $txt) }}
+<link rel="stylesheet" href="{{ $u | safeURL }}">
+{{- end }}
+{{- end }}
 {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ if $isPost }}

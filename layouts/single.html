@@ -2,7 +2,8 @@
 <article class="post">
   <header>
     {{ with .Params.categories }}<p class="kicker">{{ range $i, $c := . }}{{ if $i }} · {{ end }}<a href="{{ (site.GetPage (printf "/categories/%s" ($c | urlize))).RelPermalink }}">{{ $c }}</a>{{ end }}</p>{{ end }}
-    <h1>{{ .Title }}</h1>
+    {{ $parts := split .Title "｜" }}
+    <h1>{{ index $parts 0 }}{{ if gt (len $parts) 1 }} <span class="h1-sub">{{ index $parts 1 }}</span>{{ end }}</h1>
     {{ if and .IsPage (not .Date.IsZero) }}
     <p class="meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>

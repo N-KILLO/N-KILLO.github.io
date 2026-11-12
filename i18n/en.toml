@@ -44,3 +44,5 @@ other = "Night"
 other = "Tilt to play"
 [hitsLabel]
 other = "Views today / total"
+[heroLines]
+other = "Busan|Local|Notes"

@@ -2,8 +2,9 @@
 <html lang="{{ site.Language.Locale }}">
 <head>
 {{ partial "head.html" . }}
+<script>(function(d){d.classList.add("js");if(!matchMedia("(prefers-reduced-motion: reduce)").matches)d.classList.add("kin")})(document.documentElement)</script>
 </head>
-<body>
+<body class="k-{{ .Kind }}">
 <header class="site-header">
   <div class="wrap bar">
     <a class="brand" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
@@ -22,15 +23,24 @@
     {{ end }}
   </div>
 </header>
+{{- if .IsHome }}
+<script>document.documentElement.style.setProperty("--hh",document.querySelector(".site-header").offsetHeight+"px")</script>
+{{- end }}
+{{ block "cover" . }}{{ end }}
 <main class="wrap">
 {{ block "main" . }}{{ end }}
 </main>
 <footer class="wrap site-footer">
+  <p class="foot-brand">{{ site.Title }}</p>
   <p>© {{ now.Year }} {{ site.Title }}</p>
   {{- if hugo.IsProduction }}
   {{- $label := i18n "hitsLabel" }}
   <p class="hits"><img src="https://hits.sh/n-killo.github.io.svg?view=today-total&amp;style=flat-square&amp;labelColor=%236c6a65&amp;color=%230b6e99&amp;label={{ $label | urlquery }}" alt="{{ $label }}" height="20" decoding="async" referrerpolicy="no-referrer"></p>
   {{- end }}
 </footer>
+{{- if not .IsPage }}
+{{ $kin := resources.Get "js/kinetic.js" | minify | fingerprint }}
+<script src="{{ $kin.RelPermalink }}" integrity="{{ $kin.Data.Integrity }}" defer></script>
+{{- end }}
 </body>
 </html>
