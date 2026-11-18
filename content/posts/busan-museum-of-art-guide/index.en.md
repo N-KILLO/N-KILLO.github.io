@@ -6,7 +6,7 @@ categories: ["Busan Attractions"]
 tags: ["Busan Museum of Art", "Busan Museum of Art hours", "Busan Museum of Art admission", "Busan Museum of Art parking", "Busan Museum of Art exhibitions", "Space Lee Ufan", "BEXCO Station", "Busan indoor things to do", "Busan travel"]
 ---
 
-**Busan Museum of Art (부산시립미술관) is open Tuesday through Sunday, 10:00–18:00, and closed on Mondays. Admission is free for now, for a limited time.** Last entry is 17:00 for the main building and 17:30 for the annex, Space Lee Ufan (이우환공간). It is about 100 m from Exit 5 of BEXCO (Museum of Art) Station (벡스코(시립미술관)역) on subway Line 2, so it is easy to reach without a car. Everything below is from the official Busan Museum of Art site, checked on November 19, 2026.
+**Busan Museum of Art (부산시립미술관) is open Tuesday through Sunday, 10:00–18:00, and closed on Mondays. Admission is free for now, for a limited time.** Last entry is 17:00 for the main building and 17:30 for the annex, Space Lee Ufan (이우환공간). It is about 100 m from Exit 5 of BEXCO (Museum of Art) Station (벡스코(시립미술관)역) on subway Line 2, so it is easy to reach without a car. The hours, admission, exhibition, transport and parking details below are from the official Busan Museum of Art site, checked on November 19, 2026.
 
 {{< figure src="busan-museum-of-art-aerial.jpg" alt="Aerial view of the Busan Museum of Art main building and the sculpture park in its front yard" caption="Busan Museum of Art from above (before the renovation). The address is 58 APEC-ro, Haeundae-gu, about 100 m from BEXCO Station Exit 5 (official guide, November 2026) (2020) · Photo: Korea Tourism Organization (PhoKo), Busan Tourism Organization · KOGL Type 1" >}}
 

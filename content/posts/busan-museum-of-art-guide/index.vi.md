@@ -6,7 +6,7 @@ categories: ["Điểm đến Busan"]
 tags: ["Bảo tàng Mỹ thuật Busan", "giờ mở cửa Bảo tàng Mỹ thuật Busan", "giá vé Bảo tàng Mỹ thuật Busan", "bãi đỗ xe Bảo tàng Mỹ thuật Busan", "triển lãm Bảo tàng Mỹ thuật Busan", "Không gian Lee Ufan", "ga BEXCO", "điểm tham quan trong nhà ở Busan", "du lịch Busan"]
 ---
 
-**Bảo tàng Mỹ thuật Busan (부산시립미술관) mở cửa từ thứ Ba đến Chủ nhật, 10:00~18:00, và nghỉ thứ Hai. Vé vào cửa hiện đang tạm thời miễn phí.** Tòa chính ngừng nhận khách lúc 17:00, còn tòa phụ là Không gian Lee Ufan (이우환공간) ngừng nhận khách lúc 17:30. Bảo tàng cách lối ra số 5 ga BEXCO (Bảo tàng Mỹ thuật) (벡스코(시립미술관)역) trên tàu điện ngầm tuyến 2 khoảng 100m, nên không có xe riêng vẫn đi rất tiện. Nội dung dưới đây lấy từ trang chính thức của Bảo tàng Mỹ thuật Busan, kiểm tra ngày 19/11/2026.
+**Bảo tàng Mỹ thuật Busan (부산시립미술관) mở cửa từ thứ Ba đến Chủ nhật, 10:00~18:00, và nghỉ thứ Hai. Vé vào cửa hiện đang tạm thời miễn phí.** Tòa chính ngừng nhận khách lúc 17:00, còn tòa phụ là Không gian Lee Ufan (이우환공간) ngừng nhận khách lúc 17:30. Bảo tàng cách lối ra số 5 ga BEXCO (Bảo tàng Mỹ thuật) (벡스코(시립미술관)역) trên tàu điện ngầm tuyến 2 khoảng 100m, nên không có xe riêng vẫn đi rất tiện. Thông tin giờ mở cửa, giá vé, triển lãm, cách đi và bãi đỗ xe dưới đây lấy từ trang chính thức của Bảo tàng Mỹ thuật Busan, kiểm tra ngày 19/11/2026.
 
 {{< figure src="busan-museum-of-art-aerial.jpg" alt="Tòa chính Bảo tàng Mỹ thuật Busan và công viên điêu khắc ở sân trước nhìn từ trên cao" caption="Bảo tàng Mỹ thuật Busan nhìn từ trên cao (hình ảnh trước khi cải tạo). Địa chỉ là 58 APEC-ro, Haeundae-gu, cách lối ra số 5 ga BEXCO khoảng 100m (thông tin chính thức 11/2026) (2020) · Ảnh: Tổng cục Du lịch Hàn Quốc (PhoKo), Tổng công ty Du lịch Busan · KOGL loại 1" >}}
 
