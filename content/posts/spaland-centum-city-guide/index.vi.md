@@ -90,6 +90,8 @@ Tủ khóa bên trong chỉ để được đồ cá nhân như túi xách và q
 | Tầng 1, khu jjimjil | Phòng đất hoàng thổ, phòng than hoa, phòng muối, bulgama (lò nung), phòng băng, Wave Dream Room, Body Sound Room, SEV Room, Roman Room, Hamam Room, Pyramid Room, Bali Room |
 | Tầng 2 | Phòng thư giãn, khu chăm sóc da (aesthetic), nhà hàng, quán cà phê và quầy đồ uống |
 
+Trang chính thức giới thiệu 13 chủ đề xông hơi; bảng trên liệt kê 12 phòng được nêu tên trên trang.
+
 - **Nước suối nóng** có hai loại, một loại chứa canxi clorua và một loại chứa natri clorua. Mỗi bể một nhiệt độ khác nhau.
 - **Bể bade** có bốn kiểu: body massage (đứng), dream bath (nằm), bench jet (ngồi) và bubble jet cho lòng bàn chân.
 - **Bulgama** là phòng nóng nhất. Hướng dẫn chính thức khuyên bạn đừng cố ngồi lâu mà chia ra, mỗi lần 10 phút vào 2~3 lần, hoặc mỗi lần 5 phút vào 3~5 lần.

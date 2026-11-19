@@ -90,6 +90,8 @@ The lockers inside only take personal things like a bag and your clothes. The lu
 | 1st floor, jjimjil zone | Hwangto (yellow clay) Room, Charcoal Room, Salt Room, Bulgama (kiln sauna), Ice Room, Wave Dream Room, Body Sound Room, SEV Room, Roman Room, Hammam Room, Pyramid Room, Bali Room |
 | 2nd floor | Relax Room, aesthetic salon, restaurant, cafe and drink bar |
 
+The official guide says there are 13 themed jjimjil rooms; the table lists the 12 that the page names.
+
 - The **hot spring water** comes in two kinds, one with calcium chloride and one with sodium chloride. Each bath is a different temperature.
 - The **Bade pool** has four jets: a body massage you take standing, a dream bath you lie in, a bench jet you sit on, and a bubble jet for the soles of your feet.
 - The **Bulgama** is the hottest room. The official guide says to go in for short rounds, 10 minutes two or three times or 5 minutes three to five times, instead of sitting it out.
