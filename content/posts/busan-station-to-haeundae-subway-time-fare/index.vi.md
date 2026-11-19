@@ -22,7 +22,7 @@ tags: ["ga Busan đến Haeundae bằng tàu điện ngầm", "ga Busan đến H
 | Trẻ em (6 đến 12 tuổi) | Miễn phí bằng thẻ giao thông · 800 won vé QR |
 | Ga Haeundae → bãi biển | Lối ra số 5, đi bộ 15 phút |
 
-Hai người lớn đi khứ hồi bằng thẻ giao thông hết 7.200 won. Không có thẻ thì bạn mua vé QR ở máy bán vé, có điều mỗi lượt phải trả thêm 100 won. Càng đi nhiều lượt thì dùng thẻ giao thông càng lợi.
+Hai người lớn đi khứ hồi bằng thẻ giao thông hết 7.200 won. Không có thẻ thì bạn mua vé QR ở máy bán vé, có điều người lớn và thanh thiếu niên mỗi lượt phải trả thêm 100 won, còn trẻ em vốn được miễn phí khi dùng thẻ thì phải trả 800 won. Càng đi nhiều lượt thì dùng thẻ giao thông càng lợi.
 
 ## Những lúc cần tính khác đi
 

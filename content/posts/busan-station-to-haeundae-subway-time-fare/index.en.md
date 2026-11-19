@@ -22,7 +22,7 @@ tags: ["Busan Station to Haeundae subway", "Busan Station to Haeundae travel tim
 | Child (6 to 12) | Free by transit card · ₩800 QR ticket |
 | Haeundae Station → beach | Exit 5, 15 min on foot |
 
-A round trip for two adults comes to ₩7,200 by transit card. If you don't have a card, you can buy a QR ticket from the ticket machine, but you pay ₩100 more every time you ride. The more rides you take, the more the card saves you.
+A round trip for two adults comes to ₩7,200 by transit card. If you don't have a card, you can buy a QR ticket from the ticket machine, but adults and teens pay ₩100 more per ride, and children, who ride free with a card, pay ₩800. The more rides you take, the more the card saves you.
 
 ## When the answer changes
 
