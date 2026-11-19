@@ -149,7 +149,7 @@
           else if (v > -0.3) { chr = '.'; slot = 4; }
           else if (hash(x, y) > 0.94) { chr = '.'; slot = 3; }
           else continue;
-          slot = Math.max(0, slot - Math.round(dep * 3));
+          slot = Math.max(0, slot - Math.round(dep * 1.6));
           g.put(x, y, chr, slot);
         }
       }
@@ -426,7 +426,7 @@
           else if (v > -0.5) { c2 = '.'; s2 = 4; }
           else if (hash(x, y) > 0.94) { c2 = '.'; s2 = 3; }
           else continue;
-          g.put(x, y, c2, Math.max(0, s2 - Math.round(dep * 3)));
+          g.put(x, y, c2, Math.max(0, s2 - Math.round(dep * 1.8)));
         }
       }
       /* 마우스 잔물결 */
