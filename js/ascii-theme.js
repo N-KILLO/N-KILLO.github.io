@@ -486,14 +486,14 @@
       /* 뒤쪽 언덕 실루엣 */
       for (var hx = 0; hx < cols; hx++) {
         var hillY = Math.round(rows * (0.475 + 0.03 * Math.sin(hx * 0.02 + 0.6)));
-        if (hash(hx, 61) > 0.55) g.put(hx, hillY, '.', 2);
-        if (hash(hx, 63) > 0.8) g.put(hx, hillY - 1, "'", 1);
+        g.put(hx, hillY, hash(hx, 61) > 0.5 ? '^' : '.', 3);
+        if (hash(hx, 63) > 0.7) g.put(hx, hillY + 1, '#', 2);
       }
       /* 계단/담장 선 */
       for (var band2 = 0; band2 < 5; band2++) {
         var ly = Math.round(rows * (0.535 + 0.098 * band2)) + 1;
         for (var lx = 0; lx < cols; lx++) {
-          if (hash(lx >> 1, ly) > 0.3) g.put(lx, ly, '_', 3);
+          if (hash(lx >> 1, ly) > 0.3) g.put(lx, ly, '_', 4);
         }
       }
       /* 계단식 마을 */
@@ -502,9 +502,9 @@
         var topY = b.y - b.h;
         for (var by = topY; by <= b.y; by++) {
           for (var bx = b.x; bx < b.x + b.w; bx++) {
-            if (by === topY) g.put(bx, by, '=', 4);
-            else if (bx === b.x || bx === b.x + b.w - 1) g.put(bx, by, '#', 3);
-            else if (hash(bx * 3, by * 5 + bi) > 0.62) g.put(bx, by, 'o', 11);
+            if (by === topY) g.put(bx, by, '=', 6);
+            else if (bx === b.x || bx === b.x + b.w - 1) g.put(bx, by, '#', 5);
+            else if (hash(bx * 3, by * 5 + bi) > 0.74) g.put(bx, by, 'o', 10);
             else if (hash(bx, by + bi) > 0.55) g.put(bx, by, '.', 1);
           }
         }
@@ -520,7 +520,7 @@
           var xx = Math.round(wd.x) - k;
           var lift = Math.round(Math.sin(t * 1.5 + wd.ph + k * 0.6) * 1.2);
           var chs = '~-..,';
-          g.put(xx, wy + lift, chs.charAt(Math.min(k, 4)), k === 0 ? 6 : (k === 1 ? 5 : (k === 2 ? 3 : 2)));
+          g.put(xx, wy + lift, chs.charAt(Math.min(k, 4)), k === 0 ? 7 : (k === 1 ? 6 : (k === 2 ? 4 : 3)));
         }
         if (hash(wi, Math.floor(t * 0.4)) > 0.972) g.put(Math.round(wd.x), wy - 1, '*', 7);
       }
