@@ -122,7 +122,7 @@
           g.put(x, dy, '=', 4);
           g.put(x, dy - 1, 'o', 10);
         } else {
-          g.put(x, dy, '-', 2);
+          g.put(x, dy, '-', 3);
           if (x % 3 === 0) g.put(x, dy - 1, '.', 2);
         }
       }
@@ -142,10 +142,10 @@
           var v = Math.sin(x * rfq + rph + t * 0.85) + 0.45 * Math.sin(x * rfq * 2.7 - t * 1.5 + rph * 1.7);
           var chr, slot;
           if (hash(x >> 2, y + 5) > 0.955) continue;
-          if (v > 0.95) { chr = '~'; slot = 5; }
-          else if (v > 0.35) { chr = '-'; slot = 4; }
-          else if (v > -0.3) { chr = '.'; slot = 3; }
-          else if (hash(x, y) > 0.94) { chr = '.'; slot = 2; }
+          if (v > 0.95) { chr = '~'; slot = 6; }
+          else if (v > 0.35) { chr = '-'; slot = 5; }
+          else if (v > -0.3) { chr = '.'; slot = 4; }
+          else if (hash(x, y) > 0.94) { chr = '.'; slot = 3; }
           else continue;
           slot = Math.max(0, slot - Math.round(dep * 3));
           g.put(x, y, chr, slot);
@@ -207,7 +207,7 @@
       /* 지형: 어두운 덩어리 + 능선 + 풀 */
       for (var gx = 0; gx < cols; gx++) {
         var gy = Math.round(ground(gx));
-        g.put(gx, gy, hash(gx, 1) > 0.55 ? '#' : '%', 3);
+        g.put(gx, gy, hash(gx, 1) > 0.55 ? '#' : '%', 4);
         for (var yy = gy + 1; yy < rows; yy++) {
           var rr = hash(gx, yy);
           if (yy < gy + 3) {
@@ -236,7 +236,7 @@
           d.x = Math.random() * cols;
         }
         for (var k = 0; k < d.l; k++) {
-          g.put(cx - (k > 0 ? 1 : 0), Math.round(d.y) - k, k === 0 ? '|' : '/', k === 0 ? 6 : 4);
+          g.put(cx - (k > 0 ? 1 : 0), Math.round(d.y) - k, k === 0 ? '|' : '/', k === 0 ? 7 : 5);
         }
         var hit = Math.round(ground(clamp(cx, 0, cols - 1)));
         if (Math.round(d.y) >= hit) {
@@ -299,7 +299,7 @@
       /* 먼 산 능선 */
       for (x = 0; x < cols; x++) {
         var ry = Math.round(rows * (0.385 + 0.022 * Math.sin(x * 0.045 + 1.3) + 0.012 * Math.sin(x * 0.17 + 0.5)));
-        g.put(x, ry, '^', 2);
+        g.put(x, ry, '^', 3);
         for (var k = 1; k < 3; k++) if (hash(x, k) > 0.4) g.put(x, ry + k, '#', 1);
       }
       /* 도시 불빛: 구역(블록) 단위로 모여 빛난다 */
@@ -413,17 +413,17 @@
             var flick = hash(x, y * 5 + Math.floor(t * 8));
             if (flick < 0.16 + 0.62 * near) {
               var chr = near > 0.55 ? (flick < 0.28 ? '*' : "'") : (flick < 0.45 ? '.' : ',');
-              g.put(x, y, chr, near > 0.5 ? 11 : (near > 0.22 ? 10 : 8));
+              g.put(x, y, chr, near > 0.5 ? 11 : (near > 0.22 ? 10 : 9));
               continue;
             }
           }
           var hph = hash(y, 23) * 6.28;
           var v = Math.sin(x * (0.05 + hash(y, 31) * 0.09) + hph + t * 0.7) + 0.4 * Math.sin(x * 0.27 - t * 1.2 + hph);
           var c2, s2;
-          if (v > 0.85) { c2 = '~'; s2 = 5; }
-          else if (v > 0.2) { c2 = '-'; s2 = 4; }
-          else if (v > -0.5) { c2 = '.'; s2 = 3; }
-          else if (hash(x, y) > 0.94) { c2 = '.'; s2 = 2; }
+          if (v > 0.85) { c2 = '~'; s2 = 6; }
+          else if (v > 0.2) { c2 = '-'; s2 = 5; }
+          else if (v > -0.5) { c2 = '.'; s2 = 4; }
+          else if (hash(x, y) > 0.94) { c2 = '.'; s2 = 3; }
           else continue;
           g.put(x, y, c2, Math.max(0, s2 - Math.round(dep * 3)));
         }
@@ -493,7 +493,7 @@
       for (var band2 = 0; band2 < 5; band2++) {
         var ly = Math.round(rows * (0.535 + 0.098 * band2)) + 1;
         for (var lx = 0; lx < cols; lx++) {
-          if (hash(lx >> 1, ly) > 0.3) g.put(lx, ly, '_', 2);
+          if (hash(lx >> 1, ly) > 0.3) g.put(lx, ly, '_', 3);
         }
       }
       /* 계단식 마을 */
@@ -502,9 +502,9 @@
         var topY = b.y - b.h;
         for (var by = topY; by <= b.y; by++) {
           for (var bx = b.x; bx < b.x + b.w; bx++) {
-            if (by === topY) g.put(bx, by, '=', 3);
-            else if (bx === b.x || bx === b.x + b.w - 1) g.put(bx, by, '#', 2);
-            else if (hash(bx * 3, by * 5 + bi) > 0.62) g.put(bx, by, 'o', 10);
+            if (by === topY) g.put(bx, by, '=', 4);
+            else if (bx === b.x || bx === b.x + b.w - 1) g.put(bx, by, '#', 3);
+            else if (hash(bx * 3, by * 5 + bi) > 0.62) g.put(bx, by, 'o', 11);
             else if (hash(bx, by + bi) > 0.55) g.put(bx, by, '.', 1);
           }
         }
