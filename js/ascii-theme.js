@@ -118,12 +118,14 @@
       /* 상판 */
       for (x = xa; x <= xb; x++) {
         var dy = deckY(x);
-        if (x % 7 === 0) {
-          g.put(x, dy, '=', 4);
+        if (x % 6 === 0) {
+          g.put(x, dy, '=', 5);
           g.put(x, dy - 1, 'o', 10);
+        } else if (x % 3 === 0) {
+          g.put(x, dy, '=', 4);
+          g.put(x, dy - 1, '.', 6);
         } else {
           g.put(x, dy, '-', 3);
-          if (x % 3 === 0) g.put(x, dy - 1, '.', 2);
         }
       }
       /* 수직 케이블(hanger) */
