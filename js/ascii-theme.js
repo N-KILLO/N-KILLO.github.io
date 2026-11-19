@@ -196,7 +196,7 @@
       s.last = t;
 
       var ground = function (x) {
-        return rows * (0.655 + 0.075 * Math.sin(x * 0.035 + 1.1) + 0.035 * Math.sin(x * 0.11 + 0.4));
+        return rows * (0.855 + 0.04 * Math.sin(x * 0.035 + 1.1) + 0.018 * Math.sin(x * 0.11 + 0.4));
       };
 
       /* 별 (비구름 사이) */
@@ -219,8 +219,7 @@
             if (span > 0.86) g.put(gx, yy, span > 0.96 ? '#' : '%', 1);
           }
         }
-        if (hash(gx, 3) > 0.6) g.put(gx, gy - 1, hash(gx, 5) > 0.5 ? '"' : "'", 3);
-        if (hash(gx, 7) > 0.86) g.put(gx, gy - 2, ',', 2);
+        if (hash(gx, 3) > 0.64) g.put(gx, gy - 1, hash(gx, 5) > 0.5 ? '"' : "'", 3);
         if (hash(gx, 9) > 0.45) {
           var py = gy + 1 + (hash(gx, 11) > 0.7 ? 1 : 0);
           if (hash(gx, 13) > 0.55) g.put(gx, py, hash(gx, 15) > 0.5 ? '~' : '.', 2);
@@ -301,8 +300,8 @@
       /* 먼 산 능선 */
       for (x = 0; x < cols; x++) {
         var ry = Math.round(rows * (0.385 + 0.022 * Math.sin(x * 0.045 + 1.3) + 0.012 * Math.sin(x * 0.17 + 0.5)));
-        g.put(x, ry, '^', 3);
-        for (var k = 1; k < 3; k++) if (hash(x, k) > 0.4) g.put(x, ry + k, '#', 1);
+        g.put(x, ry, '^', 4);
+        for (var k = 1; k < 4; k++) if (hash(x, k) > 0.32) g.put(x, ry + k, k < 2 ? '#' : '%', 2);
       }
       /* 도시 불빛: 구역(블록) 단위로 모여 빛난다 */
       for (y = cityTop; y < cityBot; y++) {
@@ -344,8 +343,8 @@
       var nearY = function (x2) { return rows * (0.885 + 0.012 * Math.sin(x2 * 0.05)); };
       for (x = 0; x < cols; x++) {
         var ny = Math.round(nearY(x));
-        g.put(x, ny, '^', 2);
-        for (var k2 = 1; k2 < 5; k2++) if (hash(x, k2 + 5) > 0.35) g.put(x, ny + k2, '#', 1);
+        g.put(x, ny, '^', 4);
+        for (var k2 = 1; k2 < 5; k2++) if (hash(x, k2 + 5) > 0.3) g.put(x, ny + k2, k2 < 3 ? '#' : '%', 2);
       }
       var tw3 = Math.round(cols * 0.615);
       var baseY = Math.round(nearY(tw3));
