@@ -61,16 +61,16 @@ button{font:inherit;color:inherit}
   z-index:1;
   pointer-events:none;
   background:
-    radial-gradient(120% 80% at 50% -10%, rgba(111,227,216,.06), transparent 55%),
-    radial-gradient(90% 60% at 50% 108%, rgba(0,0,0,.55), transparent 70%),
-    linear-gradient(180deg, rgba(3,6,11,.35) 0%, rgba(3,6,11,0) 22%, rgba(3,6,11,0) 62%, rgba(3,6,11,.72) 100%);
+    radial-gradient(120% 80% at 50% -10%, rgba(111,227,216,.05), transparent 55%),
+    radial-gradient(90% 60% at 50% 108%, rgba(0,0,0,.45), transparent 72%),
+    linear-gradient(180deg, rgba(3,6,11,.22) 0%, rgba(3,6,11,0) 20%, rgba(3,6,11,0) 66%, rgba(3,6,11,.55) 100%);
 }
 .veil::after{
   content:"";
   position:absolute;
   inset:0;
   background:repeating-linear-gradient(180deg, rgba(180,230,240,.045) 0 1px, rgba(0,0,0,0) 1px 3px);
-  opacity:.5;
+  opacity:.32;
   mix-blend-mode:overlay;
 }
 
@@ -217,9 +217,16 @@ h1.title{
   font-weight:700;
   font-size:clamp(2.35rem,6.4vw,4.9rem);
   line-height:1.02;
-  letter-spacing:-.035em;
+  letter-spacing:-.045em;
   color:#f4fbfd;
   text-shadow:0 2px 40px rgba(0,0,0,.6),0 0 90px rgba(111,227,216,.14);
+}
+:lang(ko) h1.title,:lang(ja) h1.title,:lang(zh-cn) h1.title,:lang(zh-tw) h1.title{
+  font-family:var(--sans);
+  font-weight:800;
+  letter-spacing:-.05em;
+  line-height:1.12;
+  font-size:clamp(2.1rem,5.6vw,4.2rem);
 }
 h1.title .cursor{
   display:inline-block;

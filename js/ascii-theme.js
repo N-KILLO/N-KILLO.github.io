@@ -60,11 +60,10 @@
   var gwangan = {
     name: 'GWANGAN NIGHT SEA',
     sky: ['#02060c', '#05131e', '#0a2432'],
-    pal: ['#0d2430', '#123a48', '#1a5566', '#237384', '#2f96a4', '#46bcc6', '#7fdce0', '#c8f4f4',
-          '#5e3a1c', '#a8641f', '#ffb264', '#ffe6c2'],
+    pal: ['#12303c','#17495a','#1f667a','#2a8496','#38a4b4','#52c4ce','#8ee6e6','#d8f8f6', '#7a4a22','#c07c28','#ffc07a','#fff0d6'],
     draw: function (t) {
-      var hz = Math.round(rows * 0.60);
-      var deck = hz - 6;
+      var hz = Math.round(rows * 0.66);
+      var deck = hz - 7;
       var t1 = Math.round(cols * 0.295), t2 = Math.round(cols * 0.705);
       var top = Math.max(2, deck - Math.round(rows * 0.21));
       var xa = Math.round(cols * 0.02), xb = Math.round(cols * 0.98);
@@ -176,8 +175,7 @@
   var yeongdo = {
     name: 'YEONGDO RAIN',
     sky: ['#020708', '#05100f', '#081a19'],
-    pal: ['#082629', '#0d3a3d', '#145052', '#1d6b6c', '#2b8a89', '#4aacaa', '#84d2cd', '#d5f2ec',
-          '#33455c', '#6b88a8', '#a9c6e2', '#e8f4ff'],
+    pal: ['#0c3336','#124a4d','#1a6365','#26807f','#36a09e','#56c2bd','#8edcd6','#e0f8f2', '#3d5570','#7e9cbb','#bcd6ee','#f0f8ff'],
     state: null,
     draw: function (t, m) {
       var s = this.state;
@@ -282,8 +280,7 @@
   var hwangnyeong = {
     name: 'HWANGNYEONGSAN CITYLIGHT',
     sky: ['#03040c', '#080a1c', '#131030'],
-    pal: ['#0e1030', '#191a44', '#26255c', '#3a3676', '#544e9c', '#7972bd', '#aba4d8', '#e2ddf5',
-          '#5a3a18', '#a8701f', '#ffc46b', '#fff2cf'],
+    pal: ['#141636','#20225a','#2e2f76','#43429a','#5d5ab8','#837fd6','#b6b2e8','#eeebfb', '#7a4c1e','#c4852a','#ffcf7d','#fff6da'],
     draw: function (t, m) {
       var cityTop = Math.round(rows * 0.42);
       var cityBot = Math.round(rows * 0.90);
@@ -364,8 +361,7 @@
   var haeundae = {
     name: 'HAEUNDAE MOONLIGHT',
     sky: ['#02040d', '#040b18', '#08152c'],
-    pal: ['#0a1626', '#122338', '#1c3352', '#294a70', '#3a6a92', '#5b90b5', '#9dc0d6', '#e6f3ff',
-          '#6a5a34', '#b39d62', '#ffe7a8', '#fffbe8'],
+    pal: ['#0f1e33','#162e4a','#20406a','#2e5a8c','#417cb0','#64a0c8','#b0d2e6','#f0f8ff', '#8a7440','#c9b078','#ffeeb0','#fffff0'],
     draw: function (t, m) {
       var hz = Math.round(rows * 0.54);
       var mx = cols * 0.735, my = rows * 0.17;
@@ -453,8 +449,7 @@
   var gamcheon = {
     name: 'GAMCHEON BREEZE',
     sky: ['#05030f', '#0e081c', '#1b0f28'],
-    pal: ['#160f2a', '#241640', '#352057', '#4a2c6c', '#633b7f', '#83538f', '#ac7a9c', '#e0b9bf',
-          '#5c3113', '#a85a1e', '#ffb35c', '#ffe9c9'],
+    pal: ['#1e1536','#2e1d4e','#422866','#5a357c','#774799','#9a639f','#c08fae','#f0d0d2', '#7a4119','#c4712a','#ffc070','#fff0d2'],
     state: null,
     draw: function (t, m) {
       var s = this.state;
