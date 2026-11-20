@@ -27,7 +27,7 @@ Có tới ba khung giờ nên dễ rối, bạn chỉ cần nhớ một mốc th
 
 - **Khi đi ô tô**: vào làng thì miễn phí, nhưng phí đỗ xe tính riêng. Cả khu chỉ có hai bãi đỗ công cộng (78 chỗ và 40 chỗ), cuối tuần đi tìm chỗ đỗ thôi là hết thời gian. Bắt xe buýt làng ở lối ra số 6 ga Toseong (토성역) cho nhẹ đầu.
 - **Khi vừa đi vừa đóng dấu**: bản đồ đóng dấu của tour ngõ hẻm là bản đồ bán tại trung tâm thông tin, phải trả tiền. Không có bản đồ thì bạn vẫn đi hết được cả làng, nên chỉ ai thích sưu tầm con dấu mới cần mua.
-- **Khi ghé chỗ trải nghiệm, xưởng nghệ sĩ**: các chương trình trải nghiệm như làm gốm kết thúc lúc 16:00. Còn xưởng của nghệ sĩ lưu trú thì làng đề nghị khách liên hệ trước khi ghé.
+- **Khi ghé chỗ trải nghiệm, xưởng nghệ sĩ**: các chương trình trải nghiệm kết thúc lúc 16:00. Còn xưởng của nghệ sĩ lưu trú thì làng đề nghị khách liên hệ trước khi ghé.
 
 ## Ngoài giờ giấc, còn mấy điều nhất định phải biết
 

@@ -27,7 +27,7 @@ Three different sets of hours get confusing, so keep one rule in your head. **In
 
 - **If you drive**: getting in is free, but parking is charged separately. There are only two public parking lots (78 and 40 spaces), so on weekends you can spend your whole visit looking for a space. Taking a village bus from Exit 6 of Toseong Station (토성역) is far less stressful.
 - **If you want to collect stamps**: the alley-tour stamp map is a paid map sold at the information center. You can see the whole village on foot without it, so buy one only if you want the stamps.
-- **If you stop at an activity or a studio**: hands-on programs such as pottery end at 16:00. The resident artists' studios ask you to contact them before you come.
+- **If you stop at an activity or a studio**: the hands-on programs end at 16:00. The resident artists' studios ask you to contact them before you come.
 
 ## What to know besides the hours
 
