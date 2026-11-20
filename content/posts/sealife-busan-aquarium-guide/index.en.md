@@ -1,12 +1,12 @@
 ---
-title: "SEA LIFE Busan Aquarium 2026: Tickets from ₩19,000 Online, Hours, Shows & Parking"
+title: "SEA LIFE Busan Aquarium 2026 Tickets, Hours & Parking: Adults ₩32,000 at the Door, Children from ₩19,000 Online, Weekdays to 19:00"
 date: 2026-11-21T05:44:00+09:00
-description: "SEA LIFE Busan Aquarium in Haeundae: open daily, weekdays 10:00–19:00, weekends to 20:00. Adults ₩32,000 at the door, from ₩19,000 online. Shows, parking."
+description: "SEA LIFE Busan Aquarium in Haeundae: open daily, weekdays 10:00–19:00, weekends to 20:00. Adults ₩32,000 at the door, online advance tickets from ₩19,000 for children. Shows, parking."
 categories: ["Busan Attractions"]
 tags: ["SEA LIFE Busan Aquarium", "Busan Aquarium", "Busan Aquarium tickets", "Busan Aquarium hours", "Busan Aquarium parking", "Haeundae aquarium", "Haeundae with kids", "Busan indoor things to do", "Haeundae Beach", "Busan travel"]
 ---
 
-**SEA LIFE Busan Aquarium (씨라이프 부산아쿠아리움) is open every day of the year, 10:00–19:00 on weekdays and 10:00–20:00 on weekends. Tickets at the door are ₩32,000 for adults and ₩27,500 for children, and buying online in advance starts at ₩19,000.** It sits right in front of the sand at Haeundae Beach (해운대해수욕장), a 10-minute walk from Haeundae Station (해운대역). The price, hours, show and parking details below are from the official SEA LIFE Busan Aquarium website, checked on November 21, 2026.
+**SEA LIFE Busan Aquarium (씨라이프 부산아쿠아리움) is open every day of the year, 10:00–19:00 on weekdays and 10:00–20:00 on weekends. Tickets at the door are ₩32,000 for adults and ₩27,500 for children, and online advance tickets start at ₩19,000 for children.** It sits right in front of the sand at Haeundae Beach (해운대해수욕장), a 10-minute walk from Haeundae Station (해운대역). The price, hours, show and parking details below are from the official SEA LIFE Busan Aquarium website, checked on November 21, 2026.
 
 {{< figure src="busan-aquarium-shark-tank.jpg" alt="A shark swimming through a school of fish in the main tank at Busan Aquarium" caption="A shark in the main tank at Busan Aquarium. The shark feeding show is at 14:00 every day in the Sea Theater on B3 (official timetable, November 2026) (July 2010) · Photo: Korea Tourism Organization (PhoKo), Kim Ji-ho · KOGL Type 1" >}}
 
@@ -19,7 +19,7 @@ tags: ["SEA LIFE Busan Aquarium", "Busan Aquarium", "Busan Aquarium tickets", "B
 | Last entry | Weekdays 18:00 / Weekends and public holidays 19:00 |
 | Closed | Never, open all year |
 | Price at the door | Adults ₩32,000 / Children ₩27,500 |
-| Online advance tickets | From ₩19,000 (up to 31% off) |
+| Online advance tickets | Children from ₩19,000 (up to 31% off) |
 | Free entry | Under 36 months |
 | Subway | 10-minute walk from Exit 3 or 5 of Haeundae Station, Line 2 |
 | Enquiries | 051-740-1700 (automated line) |
@@ -34,12 +34,12 @@ The building has one floor above ground and three below. It is right next to the
 | Children | ₩27,500 | 36 months to age 13 (sixth grade of elementary school) |
 | Infants | Free | Under 36 months |
 
-- **Online advance tickets** start at ₩19,000. The official website says that is up to 31% off the door price.
+- **Online advance tickets** start at ₩19,000 for children. The official website says that is up to 31% off the door price.
 - Online tickets are sold **for a set visit date**. You show the QR code you receive to the staff at the ticket desk and go in.
 - You can change the date **up to 5 times, until the day before your visit**, and cancel **until the day before** too. Tickets bought on the day cannot be changed or cancelled.
 - Once you leave, you cannot go back in.
 
-Two adults paying at the door comes to ₩64,000. If you know which day you are going, buying online is always cheaper, even if you do it the night before. Prices for each date show up as soon as you tap a visit date on the official booking page.
+Two adults paying at the door comes to ₩64,000. If you know which day you are going, tap the visit date on the official booking page and check the adult online price for that day first. If it is lower than the door price, buy in advance, even if you do it the night before.
 
 ### Concession prices at the ticket desk
 
@@ -56,7 +56,7 @@ Two adults paying at the door comes to ₩64,000. If you know which day you are 
 
 All of these are sold **only at the ticket desk on site** and cannot be combined with other discounts. Bring proof, such as an ID card, a resident register copy, a pregnancy certificate or a family relations certificate. Students who sat the CSAT (수능) for the 2027 school year pay ₩16,000 for themselves if they show their exam admission slip between November 19 and December 18, 2026.
 
-The concession price is ₩22,400, which is more than the lowest online price of ₩19,000. Even if you qualify, look at the online price first and buy whichever is cheaper.
+If you qualify for a concession, compare the online price shown for your date on the booking page with the concession price and buy whichever is cheaper. Concessions are sold only at the ticket desk on site, so compare before you pay online.
 
 ## Hours and last entry
 

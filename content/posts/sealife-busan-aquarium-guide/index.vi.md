@@ -1,12 +1,12 @@
 ---
-title: "Thủy cung SEA LIFE Busan 2026: Giá vé 32.000 won, online từ 19.000 won, giờ mở cửa, lịch biểu diễn – Kinh nghiệm tham quan"
+title: "Thủy cung SEA LIFE Busan 2026: Giá vé tại quầy người lớn 32.000 won, trẻ em online từ 19.000 won, ngày thường đến 19:00, giờ mở cửa, lịch biểu diễn – Kinh nghiệm tham quan"
 date: 2026-11-21T05:44:00+09:00
-description: "Thủy cung SEA LIFE Busan ở Haeundae mở quanh năm, ngày thường 10:00~19:00, cuối tuần 10:00~20:00. Vé tại quầy 32.000 won, online từ 19.000 won. Kèm lịch biểu diễn, đỗ xe, cách đi."
+description: "Thủy cung SEA LIFE Busan ở Haeundae mở quanh năm, ngày thường 10:00~19:00, cuối tuần 10:00~20:00. Vé tại quầy 32.000 won, mua trước trên mạng từ 19.000 won cho trẻ em. Kèm lịch biểu diễn, đỗ xe, cách đi."
 categories: ["Điểm đến Busan"]
 tags: ["Thủy cung SEA LIFE Busan", "thủy cung Busan", "giá vé thủy cung Busan", "giờ mở cửa thủy cung Busan", "bãi đỗ xe thủy cung Busan", "thủy cung Haeundae", "Haeundae đi cùng trẻ em", "điểm tham quan trong nhà ở Busan", "bãi biển Haeundae", "du lịch Busan"]
 ---
 
-**Thủy cung SEA LIFE Busan (씨라이프 부산아쿠아리움) mở cửa không nghỉ ngày nào, ngày thường 10:00~19:00, cuối tuần 10:00~20:00. Vé mua tại quầy là 32.000 won cho người lớn, 27.500 won cho trẻ em, còn mua trước trên mạng thì từ 19.000 won.** Thủy cung nằm ngay trước bãi cát của bãi biển Haeundae (해운대해수욕장), từ ga Haeundae (해운대역) đi bộ 10 phút là tới. Thông tin giá vé, giờ mở cửa, biểu diễn và đỗ xe dưới đây lấy từ trang chính thức của Thủy cung SEA LIFE Busan, kiểm tra ngày 21/11/2026.
+**Thủy cung SEA LIFE Busan (씨라이프 부산아쿠아리움) mở cửa không nghỉ ngày nào, ngày thường 10:00~19:00, cuối tuần 10:00~20:00. Vé mua tại quầy là 32.000 won cho người lớn, 27.500 won cho trẻ em, còn mua trước trên mạng thì từ 19.000 won, tính theo vé trẻ em.** Thủy cung nằm ngay trước bãi cát của bãi biển Haeundae (해운대해수욕장), từ ga Haeundae (해운대역) đi bộ 10 phút là tới. Thông tin giá vé, giờ mở cửa, biểu diễn và đỗ xe dưới đây lấy từ trang chính thức của Thủy cung SEA LIFE Busan, kiểm tra ngày 21/11/2026.
 
 {{< figure src="busan-aquarium-shark-tank.jpg" alt="Bể lớn ở thủy cung Busan với con cá mập bơi giữa đàn cá" caption="Cá mập trong bể lớn của thủy cung Busan. Buổi cho cá mập ăn diễn ra lúc 14:00 hằng ngày tại Nhà hát Biển ở tầng hầm 3 (lịch chính thức 11/2026) (07/2010) · Ảnh: Tổng cục Du lịch Hàn Quốc (PhoKo), Kim Ji-ho · KOGL loại 1" >}}
 
@@ -19,7 +19,7 @@ tags: ["Thủy cung SEA LIFE Busan", "thủy cung Busan", "giá vé thủy cung 
 | Ngừng nhận khách | Ngày thường 18:00 / Cuối tuần, ngày lễ 19:00 |
 | Ngày nghỉ | Mở quanh năm |
 | Giá vé tại quầy | Người lớn 32.000 won / Trẻ em 27.500 won |
-| Mua trước trên mạng | Từ 19.000 won (giảm tối đa 31%) |
+| Mua trước trên mạng | Trẻ em từ 19.000 won (giảm tối đa 31%) |
 | Miễn phí | Dưới 36 tháng tuổi |
 | Tàu điện ngầm | Tuyến 2, ga Haeundae, cửa ra số 3 hoặc số 5, đi bộ 10 phút |
 | Liên hệ | 051-740-1700 (tổng đài tự động) |
@@ -34,12 +34,12 @@ Tòa nhà có 1 tầng nổi và 3 tầng hầm. Nằm sát biển nhưng toàn 
 | Trẻ em | 27.500 won | 36 tháng~13 tuổi (lớp 6 tiểu học) |
 | Trẻ nhỏ | Miễn phí | Dưới 36 tháng tuổi |
 
-- **Vé mua trước trên mạng** có giá từ 19.000 won. Trang chính thức ghi là giảm tối đa 31% so với giá tại quầy.
+- **Vé mua trước trên mạng** có giá từ 19.000 won, tính theo vé trẻ em. Trang chính thức ghi là giảm tối đa 31% so với giá tại quầy.
 - Vé online mua theo **ngày tham quan đã chọn**. Bạn đưa mã QR nhận được cho nhân viên quầy vé rồi vào.
 - Đổi ngày được **5 lần, chậm nhất là trước ngày tham quan một ngày**, hủy vé cũng chỉ được **đến trước ngày tham quan một ngày**. Vé mua trong ngày thì không đổi, không hủy được.
 - Đã ra ngoài là không vào lại được.
 
-Hai người lớn mua tại quầy là 64.000 won. Nếu đã chốt ngày đi thì dù là tối hôm trước, mua online vẫn chắc chắn rẻ hơn. Giá theo từng ngày hiện ra ngay khi bạn bấm vào ngày tham quan trên màn hình đặt vé chính thức.
+Hai người lớn mua tại quầy là 64.000 won. Nếu đã chốt ngày đi, bạn bấm vào ngày tham quan trên màn hình đặt vé chính thức và xem giá online người lớn của hôm đó trước. Nếu rẻ hơn giá tại quầy thì dù là tối hôm trước, bạn cứ mua sẵn.
 
 ### Giá ưu đãi tại quầy vé
 
@@ -56,7 +56,7 @@ Hai người lớn mua tại quầy là 64.000 won. Nếu đã chốt ngày đi 
 
 Toàn bộ giá ưu đãi **chỉ mua được tại quầy vé** và không cộng dồn với ưu đãi khác. Bạn nhớ mang giấy tờ chứng minh như thẻ căn cước, giấy đăng ký cư trú, giấy xác nhận mang thai, giấy chứng nhận quan hệ gia đình. Thí sinh kỳ thi đại học (수능) năm học 2027 xuất trình phiếu dự thi trong khoảng 19/11~18/12/2026 thì bản thân thí sinh được giá 16.000 won.
 
-Giá ưu đãi là 22.400 won, tức đắt hơn mức thấp nhất trên mạng là 19.000 won. Dù thuộc diện ưu đãi, bạn cứ xem giá online trước rồi mua bên nào rẻ hơn.
+Nếu thuộc diện ưu đãi, bạn so giá online của hôm đó hiện trên màn hình đặt vé với giá ưu đãi rồi mua bên nào rẻ hơn. Giá ưu đãi chỉ áp dụng tại quầy vé, nên bạn cần so trước khi thanh toán online.
 
 ## Giờ mở cửa và giờ ngừng nhận khách
 
