@@ -103,7 +103,7 @@ It's a good place to walk for an hour between meals and drinks. If you're here w
 | Gimhae Airport | Light rail → at Sasang Station, Line 2 toward Jangsan, about 26 minutes | ₩1,600 with a transit card |
 | Gimhae Airport | Limousine bus bound for Seomyeon/Bujeon (12 a day) | ₩6,000 |
 
-- A taxi from Gimhae Airport takes 45 minutes and costs around ₩18,000, according to the airport's guide. With three or four people that's cheaper than the limousine bus.
+- A taxi from Gimhae Airport takes 45 minutes and costs around ₩18,000, according to the airport's guide. For three people that's the same as the limousine bus (₩6,000 × 3), and with four the taxi is cheaper.
 - **Last trains**: The last Line 2 train from Haeundae Station toward Seomyeon is at 23:29, and the last Line 1 train from Busan Station toward Seomyeon is at 23:49. Going back to Haeundae, the last Line 2 train from Seomyeon toward Jangsan is at 00:00.
 
 If you're staying out late in Seomyeon and sleeping in Haeundae, head down to the station by 23:30. Miss the midnight train and a taxi is the only option. Fare sections and the one-day pass are covered in [How to Use the Busan Subway]({{< relref "/posts/busan-metro-guide" >}}), and the route from the airport is in [Gimhae Airport to Busan Station, Seomyeon and Haeundae]({{< relref "/posts/gimhae-airport-to-busan" >}}).

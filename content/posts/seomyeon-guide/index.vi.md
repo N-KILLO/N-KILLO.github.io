@@ -103,7 +103,7 @@ Công viên Công dân Busan (부산시민공원, Simingongwon-ro 73) được x
 | Sân bay Gimhae | Tàu điện nhẹ → đổi sang tuyến 2 hướng Jangsan ở ga Sasang, khoảng 26 phút | Thẻ giao thông 1.600 won |
 | Sân bay Gimhae | Xe buýt limousine đi Seomyeon/Bujeon (12 chuyến mỗi ngày) | 6.000 won |
 
-- Đi taxi từ sân bay Gimhae thì theo thông tin của sân bay mất 45 phút, khoảng 18.000 won. Đi ba bốn người thì rẻ hơn limousine.
+- Đi taxi từ sân bay Gimhae thì theo thông tin của sân bay mất 45 phút, khoảng 18.000 won. Đi ba người thì bằng giá limousine (6.000 won × 3), đi bốn người thì taxi rẻ hơn.
 - **Chuyến cuối**: chuyến cuối tuyến 2 từ ga Haeundae về hướng Seomyeon là 23:29, chuyến cuối tuyến 1 từ ga Busan về hướng Seomyeon là 23:49. Chuyến cuối tuyến 2 đi Jangsan, từ Seomyeon về Haeundae, là 00:00.
 
 Nếu bạn chơi khuya ở Seomyeon rồi về chỗ nghỉ ở Haeundae thì 23:30 hãy xuống ga. Lỡ chuyến tàu nửa đêm thì chỉ còn taxi. Chặng giá vé và vé 1 ngày có trong bài [cách đi tàu điện ngầm Busan]({{< relref "/posts/busan-metro-guide" >}}), còn đường từ sân bay thì mình viết riêng ở bài [cách đi từ sân bay Gimhae đến ga Busan, Seomyeon, Haeundae]({{< relref "/posts/gimhae-airport-to-busan" >}}).
