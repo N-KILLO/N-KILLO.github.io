@@ -81,8 +81,7 @@ Bãi xe trước chùa có thu phí. Trang của chùa ghi 「주차료는 사�
 | Loại xe | Phí gửi xe |
 |---|---|
 | Từ 15 chỗ trở xuống | 3.000 won |
-| Từ 25 chỗ trở xuống | 5.000 won |
-| Từ 25 chỗ trở lên | 7.000 won |
+| Từ 16 chỗ trở lên (xe buýt) | 5.000–7.000 won tùy cỡ xe |
 
 Xe con thì cứ tính 3.000 won. Ban ngày cuối tuần và rạng sáng mùng 1 Tết Dương lịch, đường vào đã kẹt từ xa, nên những hôm đó mình khuyên xuống ga Osiria rồi đi xe buýt.
 

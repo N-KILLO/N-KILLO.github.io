@@ -81,8 +81,7 @@ The car park in front of the temple is paid. The temple's website says "The park
 | Vehicle | Parking fee |
 |---|---|
 | Up to 15 seats | ₩3,000 |
-| Up to 25 seats | ₩5,000 |
-| 25 seats or more | ₩7,000 |
+| 16 seats or more (buses) | ₩5,000–7,000 depending on size |
 
 For a regular car, count on ₩3,000. On weekend afternoons and before dawn on New Year's Day the road in is jammed from the start, so on those days I'd get off at Osiria Station and take the bus.
 
