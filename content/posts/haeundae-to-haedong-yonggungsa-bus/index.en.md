@@ -32,7 +32,7 @@ Whichever way you come, there's a fair walk after the bus, and inside the temple
 
 ## What time should I leave in winter?
 
-The temple opens at 04:30 every day, and entry is until 18:50 (per Visit Busan). But in early December the sun sets in Busan at 17:11 (Korea Astronomy and Space Science Institute, checked November 11, 2026). You go there to see the colour of the sea, so I'd **get on the bus in Haeundae before 2 pm**. There is no admission fee.
+The temple opens at 04:30 every day, and entry is until 18:50 (per Visit Busan). But in early December the sun sets in Busan at 17:11 (the figure for Dec 3 to 8, 2026) (Korea Astronomy and Space Science Institute, checked November 11, 2026). You go there to see the colour of the sea, so I'd **get on the bus in Haeundae before 2 pm**. There is no admission fee.
 
 Why the opening hours differ between sources, what parking costs and the order to walk the temple in are all in [the full Haedong Yonggungsa guide]({{< relref "/posts/haedong-yonggungsa-guide" >}}). If you need to get from Busan Station to Haeundae first, see [Busan Station to Haeundae by subway: how long and how much]({{< relref "/posts/busan-station-to-haeundae-subway-time-fare" >}}).
 

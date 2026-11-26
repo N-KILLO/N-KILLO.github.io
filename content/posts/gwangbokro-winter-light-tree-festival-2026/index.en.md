@@ -30,7 +30,7 @@ The lights stay on after Christmas, right through the end of January. If you mis
 
 This year it starts on Friday, December 4 and ends on Sunday, January 31. That's 59 days. The official listing gives the hours as 17:30 to 22:30.
 
-In early December the sun sets in Busan at 17:11 (Korea Astronomy and Space Science Institute, checked November 11, 2026). By 17:30 it's already dusk, so photos come out well from the moment the lights go on. The prettiest window is 17:30 to 18:00, while there's still a little blue left in the sky. The lights go off at 22:30, so if you want a relaxed visit after dinner, be there by 21:30 at the latest.
+In early December the sun sets in Busan at 17:11 (the figure for Dec 3 to 8, 2026) (Korea Astronomy and Space Science Institute, checked November 11, 2026). By 17:30 it's already dusk, so photos come out well from the moment the lights go on. The prettiest window is 17:30 to 18:00, while there's still a little blue left in the sky. The lights go off at 22:30, so if you want a relaxed visit after dinner, be there by 21:30 at the latest.
 
 ## What you'll see
 

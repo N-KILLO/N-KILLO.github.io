@@ -30,7 +30,7 @@ Qua Giáng sinh đèn vẫn bật đến cuối tháng 1. Lỡ dịp cuối năm
 
 Năm nay lễ hội bắt đầu vào thứ Sáu 4/12 và kết thúc vào Chủ nhật 31/1 năm sau, tổng cộng 59 ngày. Giờ ghi trong thông tin chính thức là 17:30–22:30.
 
-Đầu tháng 12 ở Busan mặt trời lặn lúc 17:11 (Viện Thiên văn và Khoa học Vũ trụ Hàn Quốc, kiểm tra ngày 11/11/2026). Đến 17:30 trời đã nhá nhem, đèn vừa bật là chụp ảnh lên đẹp ngay. Khoảng 17:30–18:00, khi bầu trời còn vương chút sắc xanh, là lúc đẹp nhất. Đèn tắt lúc 22:30, nên nếu bạn muốn ăn tối xong rồi thong thả ghé qua thì chậm nhất 21:30 hãy có mặt.
+Đầu tháng 12 ở Busan mặt trời lặn lúc 17:11 (số liệu ngày 3–8/12/2026) (Viện Thiên văn và Khoa học Vũ trụ Hàn Quốc, kiểm tra ngày 11/11/2026). Đến 17:30 trời đã nhá nhem, đèn vừa bật là chụp ảnh lên đẹp ngay. Khoảng 17:30–18:00, khi bầu trời còn vương chút sắc xanh, là lúc đẹp nhất. Đèn tắt lúc 22:30, nên nếu bạn muốn ăn tối xong rồi thong thả ghé qua thì chậm nhất 21:30 hãy có mặt.
 
 ## Có gì để xem?
 
