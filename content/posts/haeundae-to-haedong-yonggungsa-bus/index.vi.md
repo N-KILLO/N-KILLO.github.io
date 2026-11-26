@@ -32,7 +32,7 @@ Nếu bạn không ở Haeundae mà ở phía Centum City (센텀시티) hay BEX
 
 ## Mùa đông nên xuất phát lúc mấy giờ?
 
-Chùa mở lúc 04:30 hằng ngày và nhận khách đến 18:50 (theo Visit Busan). Có điều đầu tháng 12 ở Busan mặt trời lặn lúc 17:11. Tới đây là để ngắm màu nước biển, nên mình khuyên bạn **lên xe buýt ở Haeundae trước 2 giờ chiều**. Chùa không thu vé vào cửa.
+Chùa mở lúc 04:30 hằng ngày và nhận khách đến 18:50 (theo Visit Busan). Có điều đầu tháng 12 ở Busan mặt trời lặn lúc 17:11 (Viện Thiên văn và Khoa học Vũ trụ Hàn Quốc, kiểm tra 11/11/2026). Tới đây là để ngắm màu nước biển, nên mình khuyên bạn **lên xe buýt ở Haeundae trước 2 giờ chiều**. Chùa không thu vé vào cửa.
 
 Vì sao mỗi nguồn ghi giờ mở cửa một khác, phí gửi xe bao nhiêu, trong chùa đi theo thứ tự nào thì có trong bài [tổng hợp về chùa Haedong Yonggungsa]({{< relref "/posts/haedong-yonggungsa-guide" >}}). Còn nếu phải đi từ ga Busan đến Haeundae trước thì bạn xem bài [từ ga Busan đến Haeundae bằng tàu điện ngầm mất bao lâu, bao nhiêu tiền]({{< relref "/posts/busan-station-to-haeundae-subway-time-fare" >}}).
 
