@@ -53,6 +53,8 @@ Xe chạy vòng tròn theo một chiều.
 4. **Chùa Taejongsa (태종사)** (600 m)
 5. **Quảng trường Danubi (다누비광장)** về đích (1,3 km)
 
+Tuyến xe buýt chạy từ Quảng trường Danubi rồi quay lại Quảng trường Danubi, dài khoảng 3,8 km (theo Tổ chức Du lịch Busan). Toàn bộ đường vòng Taejongdae dài 4,3 km, theo số liệu của đơn vị quản lý khu du lịch.
+
 Trạm nào bạn cũng lên xuống tự do được. Hôm nào thời tiết xấu như mưa hay bão thì xe ngừng chạy. Chiều cuối tuần vé hết nhanh, nên vừa tới nơi bạn ghé quầy vé trước đã. Nếu định đi vào thứ Hai hay thứ Ba thì xác định đi bộ ngay từ đầu và mang giày thể thao. Đài quan sát với hải đăng cách nhau có 200 m, đoạn đó đằng nào đi bộ cũng nhanh hơn.
 
 ## Vé vào cửa và giờ mở cửa Taejongdae

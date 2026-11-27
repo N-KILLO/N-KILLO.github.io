@@ -53,6 +53,8 @@ The route is a loop that runs in one direction.
 4. **Taejongsa Temple (태종사)** (600 m)
 5. **Danubi Plaza**: arrival (1.3 km)
 
+The shuttle loop, from Danubi Plaza back to Danubi Plaza, is about 3.8 km (per the Busan Tourism Organization). The full Taejongdae loop road is 4.3 km, the figure given by the Busan Infrastructure Corporation.
+
 You can get off and back on at any stop. The bus stops running in bad weather such as rain or a typhoon. Tickets go quickly on weekend afternoons, so head to the ticket office as soon as you arrive. If you are going on a Monday or Tuesday, plan to walk from the start and wear trainers. The observatory and the lighthouse are only 200 m apart, so that stretch is quicker on foot anyway.
 
 ## Taejongdae entrance fee and opening hours
