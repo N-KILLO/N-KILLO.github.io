@@ -8,7 +8,7 @@ tags: ["Busan Station to Taejongdae", "Taejongdae bus", "how to get to Taejongda
 
 **It's bus 17, 88 or 101.** Come out of Exit 7 at Busan Station (부산역), go to the stop across from the Kyowon Building (교원빌딩), and take whichever of the three comes first. Get off at **"Taejongdae" (태종대)** or at the last stop, **"Taejongdae Oncheon" (태종대온천)**. The ride takes about 40 minutes. Taejongdae has no subway station, so wherever you start, the last leg is a bus. (Busan Infrastructure Corporation's directions to Taejongdae Resort Park, checked November 28, 2026.)
 
-{{< figure src="taejongdae-observatory-cliff.jpg" alt="The round Taejongdae Observatory standing on a cliff that drops into the sea, with ships offshore" caption="Taejongdae Observatory on the cliff. It is about 40 minutes from Busan Station on bus 17, 88 or 101 (official information, November 2026) (November 2021) · Photo: Korea Tourism Organization (PhoKo), Dudeurim · KOGL Type 1" >}}
+{{< figure src="taejongdae-observatory-cliff.jpg" alt="The round Taejongdae Observatory standing on a cliff that drops into the sea, with ships offshore" caption="Taejongdae Observatory on the cliff. It is about 40 minutes from Busan Station on bus 17, 88 or 101 (official information, November 2026) (November 2021) · Photo: Korea Tourism Organization (PhoKo), Dudeurim (두드림) · KOGL Type 1" >}}
 
 ## Taejongdae bus numbers by starting point, in one table
 

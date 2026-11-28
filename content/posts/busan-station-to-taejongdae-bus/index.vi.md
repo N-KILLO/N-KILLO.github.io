@@ -8,7 +8,7 @@ tags: ["từ ga Busan đi Taejongdae", "xe buýt đi Taejongdae", "cách đi Tae
 
 **Xe số 17, 88 và 101.** Ra cửa số 7 ga Busan (부산역), tới trạm xe buýt đối diện tòa nhà Kyowon (교원빌딩), xe nào trong ba số này tới trước thì bạn lên xe đó, rồi xuống ở trạm **「Taejongdae (태종대)」** hoặc trạm cuối **「Taejongdae Oncheon (태종대온천)」**. Đi mất khoảng 40 phút. Taejongdae (태종대) không có ga tàu điện ngầm, nên xuất phát từ đâu thì chặng cuối vẫn là xe buýt. (Mục đường đi đến Khu du lịch Taejongdae của Tổng công ty Hạ tầng Busan, kiểm tra ngày 28/11/2026)
 
-{{< figure src="taejongdae-observatory-cliff.jpg" alt="Đài quan sát Taejongdae hình tròn đứng trên vách đá dựng đứng sát biển, ngoài khơi có mấy con tàu" caption="Đài quan sát Taejongdae trên vách đá. Từ ga Busan đi xe buýt 17·88·101 mất khoảng 40 phút (thông tin chính thức 11/2026) (11/2021) · Ảnh: Tổng cục Du lịch Hàn Quốc (PhoKo), Dodream · KOGL loại 1" >}}
+{{< figure src="taejongdae-observatory-cliff.jpg" alt="Đài quan sát Taejongdae hình tròn đứng trên vách đá dựng đứng sát biển, ngoài khơi có mấy con tàu" caption="Đài quan sát Taejongdae trên vách đá. Từ ga Busan đi xe buýt 17·88·101 mất khoảng 40 phút (thông tin chính thức 11/2026) (11/2021) · Ảnh: Tổng cục Du lịch Hàn Quốc (PhoKo), Dudeurim (두드림) · KOGL loại 1" >}}
 
 ## Số xe buýt đi Taejongdae theo điểm xuất phát: gói gọn trong một bảng
 
